@@ -1,0 +1,70 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (to avoid committing large datasets)
+data/raw/
+*.csv
+*.tsv
+*.xlsx
+*.bz2
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# Model checkpoints and logs
+# You might want to track specific outputs like prompt_*.txt, 
+# so we avoid blanket ignoring the whole outputs folder,
+# but we ignore heavy checkpoint extensions:
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+*.pb
+*.pt
+*.pth
+*.onnx
+*.mlmodel

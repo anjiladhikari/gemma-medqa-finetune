@@ -1,0 +1,31 @@
+PROMPT:
+What is panadol?
+
+RESPONSE:
+Panadol is a popular over-the-counter pain reliever and fever reducer. Here's a breakdown of what it is:
+
+**What it is:**
+
+* **A Combination Product:** Panadol is actually a combination product containing several active ingredients:
+    * **Paracetamol (Acetaminophen):** This is the primary pain reliever, used to treat headaches, muscle aches, menstrual cramps, and other types of pain. It works by reducing inflammation and relieving pain signals in the brain and body.
+    * **Diphenhydramine:** This antihistamine helps reduce itching, sneezing, runny nose, and sleepiness. It's often included to help with mild allergic reactions or congestion. 
+    * **Menthol:** Provides a cooling sensation that can be soothing for aches and pains.
+
+**How it's Used:**
+
+* **Pain Relief:** Primarily used for headaches, muscle aches, joint pain, toothaches, and minor injuries.
+* **Fever Reduction:** Effective at lowering fevers.
+* **Allergy Relief:** Can be helpful for relieving symptoms like sneezing, runny nose, and itchy eyes.
+
+**Important Things to Know:**
+
+* **Dosage:** Always follow the dosage instructions on the package carefully.  Don’t exceed the recommended dose.
+* **Not a Substitute for Medical Care:** Panadol should *not* be used as a substitute for professional medical advice or treatment. If you have severe pain, persistent symptoms, or are concerned about your health, seek medical attention.
+* **Side Effects:** Common side effects include drowsiness, dizziness, and stomach upset.
+* **Drug Interactions:** Panadol can interact with certain medications, such as blood thinners, sleeping pills, and some antidepressants. Talk to your doctor or pharmacist if you take any other medications.
+* **Pregnancy & Breastfeeding:** Consult your doctor before taking Panadol if you are pregnant or breastfeeding.
+
+
+**Where to Find More Information:**
+
+*
