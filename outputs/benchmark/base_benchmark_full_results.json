@@ -1,0 +1,998 @@
+[
+  {
+    "id": 1,
+    "question": "What are common causes of headaches?",
+    "reference_answer": "Common causes include stress, dehydration, poor posture, lack of sleep, and visual strain.",
+    "generated_answer": "Headaches can have numerous causes, ranging from tension headaches to more serious conditions. Tension headaches are often caused by muscle tension in the head and neck, while migraines involve neurological changes with associated pain, nausea, and sensitivity to light and sound. Sinus infections, dehydration, stress, caffeine withdrawal, sleep deprivation, and certain medications can also trigger headaches. Rarely, headaches can be related to underlying medical issues such as brain tumors, aneurysms, or other neurological disorders."
+  },
+  {
+    "id": 2,
+    "question": "How can you differentiate between a tension headache and a migraine?",
+    "reference_answer": "Tension headaches usually cause mild to moderate diffuse pain around the head. Migraines are often more severe, with pulsating pain on one side of the head, and can include nausea and light sensitivity.",
+    "generated_answer": "Tension headaches typically cause dull, aching pain across your forehead and temples, often accompanied by tenderness in the scalp and neck muscles. Migraines often present with intense, throbbing pain, usually localized to one side of the head, along with nausea, vomiting, and sensitivity to light and sound.  A migraine may be preceded by an aura – visual disturbances like flashing lights or zigzag lines – while tension headaches rarely exhibit these features."
+  },
+  {
+    "id": 3,
+    "question": "What home remedies are effective for relieving headaches?",
+    "reference_answer": "Effective remedies include hydration, rest, applying a cold or warm compress to the head, and practicing stress-reduction techniques such as meditation or gentle stretching.",
+    "generated_answer": "Several home remedies can help alleviate headaches. Applying a warm compress to your forehead or neck can relax tense muscles, while drinking plenty of water helps prevent dehydration, which can trigger headaches.  Resting in a quiet, dark room can also reduce sensory stimulation. Some individuals find relief from taking over-the-counter pain relievers like ibuprofen or acetaminophen, but it’s crucial to follow dosage instructions carefully."
+  },
+  {
+    "id": 4,
+    "question": "What are typical causes of lower back pain?",
+    "reference_answer": "Common causes include muscle or ligament strain, poor posture, heavy lifting, and underlying medical conditions like arthritis or disk disease.",
+    "generated_answer": "Lower back pain can stem from various factors including muscle strains or sprains due to improper lifting, poor posture, arthritis, degenerative disc disease, herniated discs, spinal stenosis, and even problems with the ligaments and facet joints in the spine."
+  },
+  {
+    "id": 5,
+    "question": "Describe simple stretches to alleviate upper back pain.",
+    "reference_answer": "Simple stretches include the shoulder blade squeeze, cat-cow stretch, and doorway pectoral stretch, all of which can help loosen tight muscles and improve posture.",
+    "generated_answer": "Simple stretches can often help ease upper back pain.  Start by performing gentle twists of your torso, holding each twist for 20-30 seconds, focusing on relaxing your shoulder blades.  Another helpful stretch involves leaning forward slightly with your knees bent, placing your hands on your lower back, and gently pulling your shoulders back as if trying to touch your ears with your elbows.  Finally, you can try a cat-cow stretch, where you alternate between arching your back like a cat and dropping your belly towards the floor.  Listen to your body and stop if you feel any sharp pain."
+  },
+  {
+    "id": 6,
+    "question": "What over-the-counter medications can help relieve muscle aches?",
+    "reference_answer": "NSAIDs (e.g., ibuprofen, aspirin) and acetaminophen can be used to reduce pain and inflammation associated with muscle aches.",
+    "generated_answer": "Several over-the-counter (OTC) medications can help alleviate muscle aches. Acetaminophen (Tylenol) reduces pain and fever, while ibuprofen (Advil, Motrin) helps with inflammation and pain. Naproxen (Aleve) has a longer duration of action.  Muscle relaxants like cyclobenzaprine may provide temporary relief but should be used cautiously due to potential side effects. Always read and follow the package instructions for any medication you take."
+  },
+  {
+    "id": 7,
+    "question": "What are the symptoms of the common cold?",
+    "reference_answer": "Symptoms include a runny or stuffy nose, sore throat, sneezing, coughing, and sometimes a mild fever.",
+    "generated_answer": "The most common symptoms of a typical cold include a runny nose, sore throat, sneezing, cough, mild headache, and fatigue. Some people may also experience congestion or a slight decrease in appetite."
+  },
+  {
+    "id": 8,
+    "question": "How does influenza differ from the common cold?",
+    "reference_answer": "Influenza symptoms are more severe and include high fever, severe muscle aches, fatigue, and a more intense cough.",
+    "generated_answer": "Influenza and the common cold share similar symptoms like cough, sore throat, and fatigue, but influenza is generally more severe. Influenza often involves fever, chills, body aches, and can lead to complications such as pneumonia or hospitalization. The common cold typically presents with milder symptoms like runny nose, sneezing, and mild discomfort, and usually doesn’t cause significant systemic illness."
+  },
+  {
+    "id": 9,
+    "question": "What are effective prevention strategies for the flu?",
+    "reference_answer": "Getting an annual flu vaccine, practicing good hand hygiene, avoiding close contact with sick individuals, and maintaining a healthy lifestyle are effective strategies.",
+    "generated_answer": "Effective prevention strategies for the flu involve vaccination annually, practicing good hand hygiene – frequently washing hands with soap and water – avoiding close contact with sick individuals, staying hydrated, and covering your mouth and nose when coughing or sneezing.  Boosting your immune system through a healthy diet rich in fruits and vegetables can also contribute to increased resistance to infection."
+  },
+  {
+    "id": 10,
+    "question": "What are common causes of indigestion?",
+    "reference_answer": "Causes include eating too much or too quickly, fatty or spicy foods, stress, alcohol, and caffeine.",
+    "generated_answer": "Common causes of indigestion include eating too quickly, consuming large meals, fatty foods, spicy foods, caffeine, alcohol, stress, and certain medications.  Other potential triggers can include lactose intolerance, sour foods, and underlying conditions like GERD (gastroesophageal reflux disease)."
+  },
+  {
+    "id": 11,
+    "question": "How can one manage symptoms of acid reflux at home?",
+    "reference_answer": "Management techniques include eating smaller meals, avoiding lying down after eating, eliminating spicy and fatty foods, and avoiding caffeine and alcohol.",
+    "generated_answer": "Managing acid reflux symptoms at home often involves dietary adjustments like avoiding trigger foods such as spicy, fatty, and acidic items, eating smaller meals more frequently, and staying up well after dinner. Lifestyle changes include elevating the head of your bed, maintaining a healthy weight, and engaging in regular exercise to strengthen abdominal muscles.  Over-the-counter medications like antacids or H2 blockers may provide temporary relief, but consulting with a healthcare professional is recommended for persistent or severe symptoms."
+  },
+  {
+    "id": 12,
+    "question": "What are signs that you should see a doctor for stomach pain?",
+    "reference_answer": "Signs include severe pain, pain that lasts several days, accompanying fever, difficulty breathing, vomiting, and signs of dehydration.",
+    "generated_answer": "Persistent stomach pain can indicate various issues, ranging from minor indigestion to more serious conditions.  Severe abdominal pain, especially if accompanied by vomiting, blood in the stool or vomit, unexplained weight loss, difficulty swallowing, or fever, warrants immediate medical attention.  If pain persists for more than 24-48 hours without improvement, it’s important to consult a healthcare professional to determine the cause and receive appropriate treatment."
+  },
+  {
+    "id": 13,
+    "question": "What are common triggers for eczema?",
+    "reference_answer": "Triggers include dry skin, irritants like soaps and detergents, allergens, stress, and weather changes.",
+    "generated_answer": "Common triggers for eczema include allergens like pollen, dust mites, pet dander, and certain foods; irritants such as harsh soaps, detergents, and wool clothing; stress; cold weather; and changes in temperature.  Skin infections can also exacerbate eczema symptoms."
+  },
+  {
+    "id": 14,
+    "question": "How can you treat mild sunburn at home?",
+    "reference_answer": "Treatments include cool baths or showers, moisturizing lotions, drinking plenty of fluids, and avoiding further sun exposure.",
+    "generated_answer": "For mild sunburns, cool compresses with water can provide relief. Apply aloe vera gel to soothe the skin. Avoid further sun exposure until the sunburn heals.  Over-the-counter pain relievers like ibuprofen or acetaminophen can help manage discomfort. Staying hydrated is also important for overall healing."
+  },
+  {
+    "id": 15,
+    "question": "What are the signs of skin infection?",
+    "reference_answer": "Signs include swelling, warmth, redness, pain, pus, and fever.",
+    "generated_answer": "Signs of a skin infection can vary depending on the type of infection but may include redness, swelling, pain, warmth, pus or drainage, blisters, itching, and a rash.  It’s important to seek medical attention if you suspect an infection, especially if it’s severe or doesn't improve with home treatment."
+  },
+  {
+    "id": 16,
+    "question": "What can cause sudden dizziness?",
+    "reference_answer": "Sudden dizziness can be caused by low blood pressure, dehydration, medication side effects, or inner ear disorders.",
+    "generated_answer": "Sudden dizziness can be caused by a variety of factors, including dehydration, low blood pressure, anemia, hypoglycemia (low blood sugar), vertigo, certain medications, neurological conditions like stroke or migraine, and even heart problems. It’s important to determine the underlying cause for appropriate treatment."
+  },
+  {
+    "id": 17,
+    "question": "What are effective treatments for seasonal allergies?",
+    "reference_answer": "Treatments include antihistamines, nasal corticosteroids, and avoiding known allergens.",
+    "generated_answer": "Effective treatments for seasonal allergies typically involve managing symptoms through avoidance of triggers, such as pollen, dust mites, and mold. Antihistamines can alleviate allergy symptoms like sneezing, runny nose, and itchy eyes. Decongestants may help reduce nasal congestion. Corticosteroids can be prescribed for more severe inflammation. In some cases, prescription medications like nasal corticosteroids or leukotriene inhibitors might be recommended by a healthcare professional. Lifestyle adjustments like staying indoors during peak pollen times, using air purifiers, and maintaining a clean home environment can also contribute to symptom relief."
+  },
+  {
+    "id": 18,
+    "question": "How can one prevent dehydration?",
+    "reference_answer": "Preventing dehydration involves drinking sufficient fluids throughout the day, especially water, and more so in hot weather or during physical activity.",
+    "generated_answer": "Preventing dehydration involves consistently consuming fluids throughout the day, even if you don’t feel thirsty.  Drinking water regularly, including hydrating beverages like juice or broth, helps replenish lost fluids. Eating foods with high water content, such as fruits and vegetables, also contributes to fluid intake.  Individuals who are active or exposed to hot environments require increased fluid replacement.  Pay attention to your body's signals for thirst and drink when needed."
+  },
+  {
+    "id": 19,
+    "question": "What should you do if you suspect food poisoning?",
+    "reference_answer": "It's important to stay hydrated, rest, and avoid solid foods initially. If symptoms persist or worsen, seek medical attention.",
+    "generated_answer": "If you suspect food poisoning, the first step is to stay hydrated by drinking plenty of fluids like water or electrolyte solutions. Avoid dairy products and fatty foods as they can worsen symptoms. Rest and avoid strenuous activity.  Contact your doctor if your symptoms are severe, such as high fever, bloody stools, persistent vomiting, dehydration, or neurological issues."
+  },
+  {
+    "id": 20,
+    "question": "How can regular physical activity benefit your health?",
+    "reference_answer": "Regular physical activity improves cardiovascular health, strengthens muscles, helps control weight, and reduces the risk of chronic diseases like diabetes and hypertension.",
+    "generated_answer": "Regular physical activity offers numerous benefits for overall health, including improved cardiovascular function, reduced risk of chronic diseases like diabetes and heart disease, enhanced mood and mental well-being, increased bone density, and potentially longer lifespan."
+  },
+  {
+    "id": 21,
+    "question": "What are the signs and symptoms of anemia?",
+    "reference_answer": "Symptoms of anemia include fatigue, pale skin, shortness of breath, dizziness, and irregular heartbeats.",
+    "generated_answer": "Anemia can present with a variety of symptoms depending on the underlying cause. Common signs include fatigue, weakness, pale skin, shortness of breath, dizziness, and cold hands and feet. Some individuals may also experience headaches, brittle nails, and frequent infections.  Severe cases can lead to significant organ dysfunction."
+  },
+  {
+    "id": 22,
+    "question": "What are the benefits of getting enough sleep?",
+    "reference_answer": "Adequate sleep improves brain function, emotional well-being, physical health, and daytime performance.",
+    "generated_answer": "Adequate sleep offers numerous benefits for overall health and well-being. It strengthens the immune system by boosting cellular repair processes, improves cognitive function such as memory and concentration, regulates hormones like cortisol and growth hormone, and contributes to better mood regulation and reduces stress levels. Consistent sleep promotes physical recovery and can even lower the risk of chronic diseases like heart disease and diabetes."
+  },
+  {
+    "id": 23,
+    "question": "How can you prevent high blood pressure?",
+    "reference_answer": "Prevention methods include maintaining a healthy weight, regular physical activity, a balanced diet low in salt and high in fruits and vegetables, and limiting alcohol intake.",
+    "generated_answer": "Maintaining a healthy lifestyle is key to preventing high blood pressure. This includes adopting a balanced diet low in sodium and saturated fats, regular physical activity, maintaining a healthy weight, limiting alcohol consumption, and avoiding smoking. Regular monitoring of your blood pressure is also important to track progress and identify any potential issues early on."
+  },
+  {
+    "id": 24,
+    "question": "What should you do in case of a minor burn?",
+    "reference_answer": "Cool the burn under cool (not cold) running water for 10-15 minutes or apply a clean, cool, wet cloth. Cover the burn with a sterile, non-adhesive bandage or cloth.",
+    "generated_answer": "If you have a minor burn, immediately cool the affected area with cool (not cold) running water for 10-20 minutes. Gently pat the skin dry with a soft towel. Apply a thin layer of aloe vera gel or moisturizer to soothe the skin.  For small burns (less than 10 square inches), pain relievers like ibuprofen or acetaminophen may help. If the burn is larger or involves the face, hands, feet, or genitals, seek medical attention promptly."
+  },
+  {
+    "id": 25,
+    "question": "What are common symptoms of asthma?",
+    "reference_answer": "Symptoms include wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning.",
+    "generated_answer": "Common symptoms of asthma include wheezing, shortness of breath, chest tightness, coughing (often with mucus), and fatigue.  Individuals may also experience an urge to cough or sneeze uncontrollably."
+  },
+  {
+    "id": 26,
+    "question": "How do you treat a bee sting?",
+    "reference_answer": "Remove the stinger, wash the area with soap and water, apply ice to reduce swelling, and take an antihistamine for itching or swelling if necessary.",
+    "generated_answer": "For a bee sting, immediately remove the stinger if present using a credit card or tweezers. Apply a cold compress to reduce swelling and pain.  Take an antihistamine to alleviate itching and hives.  If symptoms worsen – such as difficulty breathing, dizziness, or swelling of the face or throat – seek immediate medical attention by calling 911."
+  },
+  {
+    "id": 27,
+    "question": "What dietary changes can help manage type 2 diabetes?",
+    "reference_answer": "Eating fiber-rich foods, balancing carb intake with activity levels, reducing sugar and refined carbohydrates, and monitoring portion sizes can help manage blood sugar levels.",
+    "generated_answer": "A balanced diet focusing on whole grains, fruits, vegetables, and lean protein is crucial for managing type 2 diabetes. Limiting processed foods, sugary drinks, and saturated fats is also important. Incorporating plenty of fiber from sources like beans, lentils, and chia seeds can improve blood sugar control. Regular physical activity alongside these dietary changes can significantly contribute to improved insulin sensitivity and overall health."
+  },
+  {
+    "id": 28,
+    "question": "What are the early signs of dehydration?",
+    "reference_answer": "Early signs include thirst, darker urine, dry skin, fatigue, light-headedness, and dry mouth.",
+    "generated_answer": "Early signs of dehydration include thirst, dry mouth, decreased urination, fatigue, dizziness, and lightheadedness.  It’s important to note that these symptoms can also be caused by other conditions, so seeking medical advice is advisable if you experience persistent or severe symptoms."
+  },
+  {
+    "id": 29,
+    "question": "What is the best way to treat a headache without medication?",
+    "reference_answer": "Relaxation techniques, applying a heat pack or an ice pack to the neck or head, ensuring adequate hydration, and getting plenty of rest can help relieve a headache.",
+    "generated_answer": "For mild headaches, resting in a quiet, dark room can often provide relief. Applying a cold compress or ice pack to your forehead or temples may also help reduce pain. Gentle stretching exercises, such as neck rotations and shoulder rolls, might alleviate tension headaches. Staying hydrated and consuming small amounts of caffeine (if tolerated) could potentially offer temporary benefit. If the headache persists or worsens, consider trying relaxation techniques like deep breathing or meditation."
+  },
+  {
+    "id": 30,
+    "question": "What are the symptoms of a urinary tract infection (UTI)?",
+    "reference_answer": "Symptoms include a strong, persistent urge to urinate, a burning sensation when urinating, passing frequent, small amounts of urine, and urine that appears cloudy.",
+    "generated_answer": "Common symptoms of a urinary tract infection include frequent urination, urgency, pain during urination, burning sensation while urinating, cloudy urine, blood in the urine, and pelvic pain.  In some cases, you may experience fever, chills, nausea, and fatigue."
+  },
+  {
+    "id": 31,
+    "question": "How can you reduce the risk of developing osteoporosis?",
+    "reference_answer": "Increasing calcium and vitamin D intake, doing weight-bearing exercise, avoiding smoking and excessive alcohol, and getting regular bone density tests can help.",
+    "generated_answer": "Maintaining adequate calcium and vitamin D intake through diet and supplements is crucial for bone health. Engaging in weight-bearing exercises regularly, such as walking or strength training, helps stimulate bone growth. Additionally, limiting alcohol consumption and avoiding smoking can contribute to stronger bones.  Finally, maintaining a healthy lifestyle with sufficient sleep and stress management may play a role in reducing the risk of osteoporosis."
+  },
+  {
+    "id": 32,
+    "question": "What should you do if you suspect a concussion?",
+    "reference_answer": "Seek medical attention immediately, rest, and avoid activities that could worsen your condition, such as physical exertion and using digital screens.",
+    "generated_answer": "If you suspect a concussion, immediately seek medical attention. Sit or lie down with your head supported. Avoid sudden movements and activities.  Stay hydrated and avoid alcohol or drugs. Monitor for any new symptoms such as headache, dizziness, confusion, nausea, blurred vision, or balance problems.  It’s crucial to consult a healthcare professional for proper diagnosis and management of this condition."
+  },
+  {
+    "id": 33,
+    "question": "What are the signs of depression?",
+    "reference_answer": "Signs include persistent sadness, loss of interest in activities, changes in appetite or weight, sleeping too much or too little, and feeling worthless.",
+    "generated_answer": "Signs of depression can vary significantly from person to person but may include persistent sadness or emptiness, loss of interest in activities they once enjoyed, feelings of worthlessness or guilt, changes in appetite or sleep patterns, difficulty concentrating, fatigue, and social withdrawal.  In severe cases, individuals may experience thoughts of death or suicide."
+  },
+  {
+    "id": 34,
+    "question": "How do you treat poison ivy exposure?",
+    "reference_answer": "Wash the area with soap and water immediately, apply calamine lotion or hydrocortisone cream to soothe itching, and avoid scratching.",
+    "generated_answer": "Treatment for poison ivy exposure typically involves removing the blisters promptly to prevent infection. Cool compresses can help relieve itching and inflammation.  Topical corticosteroids like hydrocortisone can reduce swelling and redness. Antihistamines can alleviate itching.  For severe reactions, antihistamine nasal sprays may be prescribed.  In cases of systemic symptoms such as difficulty breathing or dizziness, seek immediate medical attention."
+  },
+  {
+    "id": 35,
+    "question": "What are effective ways to reduce stress?",
+    "reference_answer": "Effective methods include regular physical activity, maintaining social connections, practicing relaxation techniques like meditation, and seeking professional help if needed.",
+    "generated_answer": "Effective strategies for reducing stress include regular exercise, mindfulness practices like meditation or deep breathing, connecting with supportive social relationships, engaging in hobbies you enjoy, prioritizing sufficient sleep, practicing self-care activities, and setting healthy boundaries."
+  },
+  {
+    "id": 36,
+    "question": "What are the benefits of quitting smoking?",
+    "reference_answer": "Benefits include improved lung function, reduced risk of heart disease and cancer, improved circulation, and overall enhanced quality of life.",
+    "generated_answer": "Quitting smoking offers numerous health benefits, including reduced risk of heart disease, stroke, lung cancer, and other respiratory illnesses. It can also improve your sense of taste and smell, boost your energy levels, and help you lose weight.  Long-term abstinence significantly reduces the likelihood of developing chronic conditions and improves overall quality of life."
+  },
+  {
+    "id": 37,
+    "question": "What should you do to treat jellyfish stings?",
+    "reference_answer": "Rinse the area with vinegar to neutralize the sting, soak the area in hot water to reduce pain and swelling, and avoid rubbing the area.",
+    "generated_answer": "If stung by a jellyfish, immediately remove the tentacles using vinegar or baking soda.  Apply a cold compress to minimize pain and swelling.  Check for signs of anaphylaxis (difficulty breathing, hives) and administer epinephrine if prescribed by a doctor. Seek immediate medical attention if symptoms worsen or persist."
+  },
+  {
+    "id": 38,
+    "question": "How can you tell if someone is having a stroke?",
+    "reference_answer": "Look for signs such as facial drooping, arm weakness, and speech difficulties. If these signs are present, call emergency services immediately.",
+    "generated_answer": "If you suspect someone is experiencing a stroke, immediate action is crucial. Look for sudden weakness or numbness on one side of the body, difficulty speaking or understanding speech, vision problems like blurred or double vision, severe headache, loss of balance, or confusion.  These signs require immediate evaluation by emergency services – call 911 immediately. Do not attempt to diagnose or treat the person yourself."
+  },
+  {
+    "id": 39,
+    "question": "What are good dietary sources of iron?",
+    "reference_answer": "Good sources include red meat, poultry, lentils, beans, leafy green vegetables, and iron-fortified cereals.",
+    "generated_answer": "Good dietary sources of iron include red meat, poultry, fish, beans, lentils, spinach, tofu, fortified cereals, and dried fruits like raisins and apricots. Iron from plant-based sources is generally less easily absorbed than iron from animal products, so combining these foods with vitamin C can enhance absorption."
+  },
+  {
+    "id": 40,
+    "question": "What are the symptoms of food allergies?",
+    "reference_answer": "Symptoms can include hives, itching or swelling of the lips, face, or throat, stomach pain, nausea, or more severe symptoms like difficulty breathing or anaphylaxis.",
+    "generated_answer": "Food allergies can present in various ways, ranging from mild to severe reactions. Common symptoms include skin rashes, hives, itching, swelling, especially of the lips, tongue, or throat; gastrointestinal issues like nausea, vomiting, diarrhea, abdominal pain; respiratory problems such as wheezing, coughing, or difficulty breathing; and in rare cases, anaphylaxis – a life-threatening allergic reaction characterized by dizziness, loss of consciousness, and a rapid drop in blood pressure."
+  },
+  {
+    "id": 41,
+    "question": "What is the Pharmaceutical Benefits Scheme (PBS) in Australia?",
+    "reference_answer": "The PBS is a program by the Australian government that provides subsidized prescription drugs to residents, making medications more affordable.",
+    "generated_answer": "The Pharmaceutical Benefits Scheme (PBS) in Australia is a government-funded scheme that provides financial assistance to pharmaceutical companies for the registration and reimbursement of medicines used in Australia. It allows patients access to a wide range of medications, including those with significant public health benefits, through negotiated agreements between the Australian Government and pharmaceutical manufacturers."
+  },
+  {
+    "id": 42,
+    "question": "What are some common over-the-counter pain relievers available in Australia?",
+    "reference_answer": "Common over-the-counter pain relievers include paracetamol, ibuprofen, and aspirin.",
+    "generated_answer": "Several over-the-counter (OTC) pain relievers are commonly available in Australia. Ibuprofen and acetaminophen are two popular choices, often used to reduce mild to moderate pain and fever. Naproxen is another option that provides longer-lasting relief from pain and inflammation. Aspirin can be effective for headaches and toothaches, but it’s important to note that it should be used with caution due to potential risks. Some products also contain caffeine, which can enhance pain relief."
+  },
+  {
+    "id": 43,
+    "question": "How do you safely dispose of expired medications in Australia?",
+    "reference_answer": "Expired medications can be returned to any pharmacy for safe disposal under the 'Return Unwanted Medicines' program in Australia.",
+    "generated_answer": "The safest way to dispose of expired medications in Australia is through designated collection programs. Pharmacies, hospitals, and community centers often offer take-back schemes where you can drop off unused or unwanted medication for safe destruction. Some states have specific regulations regarding medication disposal; it’s best to check with your local council or health department for details on available options in your area.  Never flush medications down the toilet or pour them into drains, as this can contaminate water supplies."
+  },
+  {
+    "id": 44,
+    "question": "What should you know about antibiotic use in Australia?",
+    "reference_answer": "Antibiotics should only be used as prescribed by a healthcare provider to combat antibiotic resistance. They are not effective against viral infections like the common cold or flu.",
+    "generated_answer": "Antibiotic use in Australia is tightly regulated with several key considerations. Antibiotics are prescribed based on a thorough assessment of your condition, considering factors like bacterial resistance patterns and potential side effects. It’s crucial to only take antibiotics when necessary, as overuse contributes to antibiotic resistance, diminishing their effectiveness against infections. Patients should always discuss alternative treatment options with their doctor, including supportive care and lifestyle modifications.  Furthermore, it’s important to understand that antibiotics don't work for viral infections such as colds and flu."
+  },
+  {
+    "id": 45,
+    "question": "What is the role of the Therapeutic Goods Administration (TGA) in Australia?",
+    "reference_answer": "The TGA regulates therapeutic goods including medicines and medical devices, ensuring they meet acceptable standards of manufacturing quality, safety, and efficacy.",
+    "generated_answer": "The Therapeutic Goods Agency (TGA) in Australia plays a crucial role in regulating and supervising the manufacture, sale, and distribution of therapeutic goods – including pharmaceuticals, medical devices, and cosmetics – within the country. The TGA’s primary responsibilities include ensuring product safety and efficacy through rigorous testing and approval processes, maintaining records and traceability, and providing information to healthcare professionals and consumers. They also oversee import and export controls for these products, safeguarding Australia’s health system and protecting public welfare."
+  },
+  {
+    "id": 46,
+    "question": "How can you check if a medication is subsidized under the PBS?",
+    "reference_answer": "You can check if a medication is subsidized by searching the PBS website, which lists all the drugs covered under the scheme.",
+    "generated_answer": "To determine if a medication is subsidized through the Pharmacy Benefit Program (PBS), you typically need to contact your pharmacy benefit manager. They will provide information regarding the specific subsidy program being offered for that medication.  The PBS outlines eligibility criteria, including insurance coverage and patient demographics, which influence whether a medication is covered at a reduced cost.  Contacting your pharmacist or the PBS administrator is the best way to obtain this detailed information."
+  },
+  {
+    "id": 47,
+    "question": "What is required to get a prescription medication in Australia?",
+    "reference_answer": "A valid prescription from a licensed healthcare provider is required for prescription medications. The prescription must comply with Australian legal and medical guidelines.",
+    "generated_answer": "To obtain a prescription medication in Australia, you typically need a valid Australian Medicare card, proof of address, and a referral from a healthcare provider.  The specific requirements can vary depending on the medication and your location, but generally, you’ll need to provide documentation confirming your identity and that the medication is appropriate for your condition."
+  },
+  {
+    "id": 48,
+    "question": "What is a Schedule 8 drug, and how are they controlled in Australia?",
+    "reference_answer": "Schedule 8 drugs are controlled substances considered potentially addictive, such as opioids. Prescribing and dispensing of these drugs are strictly regulated for safety.",
+    "generated_answer": "Schedule 8 drugs are highly potent substances that are subject to strict government control within Australia. They are classified as “controlled drugs” due to their potential for abuse and harm, requiring specific licensing and monitoring by state and territory health authorities.  These authorities regulate the supply, distribution, and prescribing of Schedule 8 drugs through a tiered system involving pre-registration, regular reporting, and stringent conditions designed to minimize diversion and misuse.  The level of control varies depending on the specific drug and its intended use, with higher levels typically associated with prescription only and limited availability."
+  },
+  {
+    "id": 49,
+    "question": "How does Australia manage the regulation of prescription opioids?",
+    "reference_answer": "Australia manages opioids through strict regulatory measures including prescription monitoring programs and guidelines for healthcare providers to minimize abuse and addiction risks.",
+    "generated_answer": "Australia’s approach to regulating prescription opioids involves a multi-faceted system combining national prescribing guidelines, state and territory regulations, and a focus on harm reduction strategies. The Therapeutic Goods Administration (TGA) sets national guidelines for prescribing quantities and conditions, aiming to minimize potential misuse and addiction. States and territories have their own specific rules regarding access, monitoring, and reporting, often incorporating measures like prescriber education and patient assessment.  Furthermore, Australia has a robust harm reduction program including safe disposal programs and naloxone distribution to address overdose risks and support individuals struggling with substance use disorders."
+  },
+  {
+    "id": 50,
+    "question": "What should you do if you experience side effects from a medication in Australia?",
+    "reference_answer": "Report any side effects to your healthcare provider and the Therapeutic Goods Administration (TGA) through their adverse event reporting system.",
+    "generated_answer": "If you experience side effects from a medication in Australia, contact your doctor or pharmacist immediately.  They can assess the situation, determine the cause of the reaction, and recommend appropriate management strategies such as adjusting the dosage, switching medications, or seeking further medical attention.  For serious or concerning side effects, seek immediate emergency medical care."
+  },
+  {
+    "id": 51,
+    "question": "What should I take for a headache in Australia?",
+    "reference_answer": "For a general headache, over-the-counter medications like paracetamol or ibuprofen are commonly recommended. It's important to follow the dosage instructions on the package.",
+    "generated_answer": "For a headache in Australia, over-the-counter pain relievers like ibuprofen or acetaminophen can be effective. If the headache persists or is severe, you might consider prescription medications such as naproxen or stronger analgesics prescribed by a doctor.  If you experience any new or concerning symptoms like fever, stiff neck, vision changes, or neurological deficits, seek immediate medical attention."
+  },
+  {
+    "id": 52,
+    "question": "What medication is recommended for seasonal allergies in Australia?",
+    "reference_answer": "Antihistamines, such as loratadine or cetirizine, are commonly used to treat seasonal allergies and are available over the counter in Australia.",
+    "generated_answer": "For seasonal allergies in Australia, antihistamines like loratadine (Claritin) or cetirizine (Zyrtec) are commonly recommended to alleviate symptoms such as sneezing, runny nose, and itchy eyes. Non-steroidal anti-inflammatory drugs like ibuprofen or naproxen may be considered for pain relief, but should be used with caution due to potential side effects.  Consulting with a doctor or pharmacist can help determine the most appropriate treatment plan based on individual needs and severity of symptoms."
+  },
+  {
+    "id": 53,
+    "question": "What should I do if I get a minor cut or abrasion?",
+    "reference_answer": "Clean the area with water and mild soap, apply an antiseptic, and cover with a sterile bandage. Over-the-counter antibiotic ointments can also be used to prevent infection.",
+    "generated_answer": "If you have a minor cut or abrasion, immediately wash the area with soap and water. Apply an antiseptic ointment like Neosporin to prevent infection. Cover the wound with a sterile bandage to protect it from further irritation. Monitor for signs of increased pain, redness, swelling, or pus – these could indicate a deeper issue that requires professional attention."
+  },
+  {
+    "id": 54,
+    "question": "What is the recommended treatment for sunburn in Australia?",
+    "reference_answer": "Apply aloe vera or a soothing lotion to the affected area. Stay hydrated and avoid further sun exposure. If the sunburn is severe, seek medical attention.",
+    "generated_answer": "For sunburns in Australia, the primary recommendation is to immediately seek shade and cool the skin with water.  Aloe vera gel can be applied topically to soothe the burn, but avoid products containing alcohol or fragrances.  Over-the-counter pain relievers like ibuprofen or paracetamol can help manage discomfort.  Severe burns require immediate medical attention at a hospital or urgent care center."
+  },
+  {
+    "id": 55,
+    "question": "What should I take if I have indigestion?",
+    "reference_answer": "Over-the-counter antacids like Mylanta or Gaviscon can help relieve indigestion. Avoid spicy and fatty foods, and eat smaller, more frequent meals.",
+    "generated_answer": "If you’re experiencing indigestion, over-the-counter medications like antacids can provide relief from mild discomfort. Simethicone is another option that helps break up gas and bloating. For more severe cases, consult with your doctor to rule out potential underlying causes and discuss prescription options as needed."
+  },
+  {
+    "id": 56,
+    "question": "What is advised for the treatment of insect bites in Australia?",
+    "reference_answer": "Apply a cold pack to reduce swelling and consider using a topical antihistamine or corticosteroid cream to manage itching and irritation.",
+    "generated_answer": "For insect bites in Australia, the primary treatment involves washing the area with soap and water to remove any potential irritants.  Antihistamines can help alleviate itching and swelling, while aloe vera gel can provide soothing relief.  In cases of severe reactions, such as difficulty breathing or widespread rash, seeking immediate medical attention is crucial."
+  },
+  {
+    "id": 57,
+    "question": "What should I do if I suspect food poisoning?",
+    "reference_answer": "Stay hydrated and consider taking over-the-counter remedies like loperamide for severe diarrhea. If symptoms persist, seek medical attention.",
+    "generated_answer": "If you suspect food poisoning, the first step is to stay hydrated by drinking plenty of fluids like water, broth, or electrolyte solutions. Avoid dairy products and fatty foods as they can worsen symptoms. Rest and avoid strenuous activity.  Contact your doctor if your symptoms are severe, such as high fever, bloody stools, persistent vomiting, dehydration, or neurological issues."
+  },
+  {
+    "id": 58,
+    "question": "What should be taken for motion sickness while traveling in Australia?",
+    "reference_answer": "Over-the-counter medications like meclizine or dimenhydrinate can help prevent and treat motion sickness. Take them before travel as directed.",
+    "generated_answer": "For motion sickness during travel in Australia, ginger capsules can be helpful, as they have anti-nausea properties. Additionally, acupressure wristbands designed to relieve nausea may provide relief. Staying hydrated is also crucial, avoiding excessive alcohol and caffeine, and focusing on fresh air and stable environments can minimize discomfort."
+  },
+  {
+    "id": 59,
+    "question": "What should I do for a sore throat?",
+    "reference_answer": "Gargling with warm salt water can help soothe a sore throat. Over-the-counter throat lozenges or sprays may also relieve symptoms.",
+    "generated_answer": "For a sore throat, rest your voice, drink plenty of fluids to stay hydrated, and consider gargling with warm salt water to soothe irritation. Over-the-counter pain relievers like ibuprofen or acetaminophen can help manage pain and inflammation. If your sore throat persists or worsens, consult a healthcare professional to rule out potential infections like strep throat."
+  },
+  {
+    "id": 60,
+    "question": "What should be done in case of an asthma attack without an inhaler?",
+    "reference_answer": "Try to stay calm, sit upright, and breathe slowly and deeply. If symptoms do not improve, seek emergency medical help immediately.",
+    "generated_answer": "If you experience an asthma attack without an inhaler, focus on slow, deep breathing to help relax your airways. Sit upright and take slow, gentle breaths, inhaling for four seconds and exhaling for six seconds.  Try to minimize talking and coughing as these can trigger further inflammation.  Stay calm and avoid any sudden movements that might worsen your symptoms. If your symptoms worsen rapidly, seek immediate medical attention."
+  },
+  {
+    "id": 61,
+    "question": "What should I take for heartburn relief?",
+    "reference_answer": "Antacids, such as Tums or Rennie, can provide quick relief for heartburn. For frequent heartburn, medications like ranitidine or omeprazole may be recommended by a healthcare provider.",
+    "generated_answer": "For heartburn relief, you can try over-the-counter antacids like Tums or Rolaids, which neutralize stomach acid. For more persistent discomfort, you might consider taking a prescription medication such as famotidine or cimetidine, discussed with your doctor.  If symptoms persist or worsen, consult a healthcare professional to rule out underlying conditions."
+  },
+  {
+    "id": 62,
+    "question": "What should I take for a sinus infection?",
+    "reference_answer": "Decongestants like pseudoephedrine or nasal sprays such as oxymetazoline can help relieve sinus congestion. If symptoms persist, consult a healthcare provider as antibiotics may be necessary.",
+    "generated_answer": "For a sinus infection, over-the-counter medications like decongestants, pain relievers (such as ibuprofen or acetaminophen), and saline nasal sprays can be helpful.  A doctor may also prescribe antibiotics if the infection is bacterial."
+  },
+  {
+    "id": 63,
+    "question": "What should I do for a sprained ankle?",
+    "reference_answer": "Rest, ice, compress, and elevate the ankle. Over-the-counter pain relievers such as ibuprofen can reduce inflammation and pain.",
+    "generated_answer": "If you suspect a sprained ankle, the first step is to reduce pain and swelling. Rest the injured ankle, minimizing weight-bearing as much as possible. Use an elastic bandage to loosely support the ankle and elevate it above your heart. Ice the area for 20 minutes at a time, several times a day. Over-the-counter pain relievers like ibuprofen or acetaminophen can help manage discomfort. If the pain persists or worsens, seek medical attention promptly."
+  },
+  {
+    "id": 64,
+    "question": "What is recommended for constipation relief?",
+    "reference_answer": "Over-the-counter fiber supplements like Metamucil or laxatives such as Dulcolax can be effective. Drinking plenty of water and increasing fiber intake can also help.",
+    "generated_answer": "For relieving constipation, lifestyle changes such as increasing fiber intake through fruits, vegetables, and whole grains, drinking plenty of water, engaging in regular physical activity, and managing stress can be beneficial.  Over-the-counter remedies like stool softeners or mild laxatives may also provide temporary relief, but it’s important to consult with a healthcare professional if symptoms persist or worsen."
+  },
+  {
+    "id": 65,
+    "question": "What should I take for menstrual cramps?",
+    "reference_answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen or naproxen can relieve pain and reduce inflammation.",
+    "generated_answer": "For menstrual cramps, over-the-counter pain relievers like ibuprofen or naproxen can be effective. Warm baths or heating pads may also provide relief. Some individuals find that applying a compress with warm water and Epsom salts helps to reduce discomfort. If the cramps are severe or persistent, consult your doctor to rule out other potential causes."
+  },
+  {
+    "id": 66,
+    "question": "What should I do if I have an allergic reaction to food?",
+    "reference_answer": "For mild reactions, antihistamines can reduce symptoms. For severe reactions, such as difficulty breathing, seek immediate medical help.",
+    "generated_answer": "If you experience an allergic reaction to food, immediately contact emergency services or go to the nearest emergency room.  Signs can include hives, swelling of the lips, tongue, or throat, difficulty breathing, dizziness, or loss of consciousness.  Use an epinephrine auto-injector (EpiPen) if prescribed and administer it as directed. Monitor your symptoms closely and provide information to medical professionals."
+  },
+  {
+    "id": 67,
+    "question": "What is advised for treating dandruff?",
+    "reference_answer": "Using medicated shampoos containing ketoconazole, selenium sulfide, or zinc pyrithione can effectively treat dandruff.",
+    "generated_answer": "For managing dandruff, gentle cleansing with mild shampoos containing salicylic acid or coal tar can be helpful.  Applying an over-the-counter antifungal shampoo like selenium sulfide or ketoconazole may also reduce fungal overgrowth.  Avoid harsh scrubbing, as this can irritate the scalp.  Consider using a cool compress to soothe the skin."
+  },
+  {
+    "id": 68,
+    "question": "What should I take if I am feeling nauseous?",
+    "reference_answer": "Over-the-counter medications like meclizine or dimenhydrinate can help alleviate nausea.",
+    "generated_answer": "If you’re experiencing nausea, you can try taking an over-the-counter antacids like Tums or Maalox to help neutralize stomach acid. Alternatively, ginger ale or ginger candies may also provide relief by soothing the digestive system. If the nausea persists or is severe, it's important to consult with a healthcare professional to rule out any underlying causes."
+  },
+  {
+    "id": 69,
+    "question": "What should I do for a bee sting?",
+    "reference_answer": "Remove the stinger, wash the area with soap and water, apply ice, and take an antihistamine to reduce swelling and itching.",
+    "generated_answer": "For a bee sting, immediately remove the stinger if it’s visible. Gently scrape it out with a credit card or fingernail. Apply a cold compress to reduce swelling and pain.  Take an antihistamine to alleviate itching and redness. If you experience difficulty breathing, dizziness, or severe pain, seek immediate medical attention."
+  },
+  {
+    "id": 70,
+    "question": "What is recommended for treating a migraine?",
+    "reference_answer": "Over-the-counter medications such as ibuprofen or Excedrin Migraine can help. If migraines are severe or frequent, consult a healthcare provider.",
+    "generated_answer": "Treatment for migraines typically involves a combination of strategies. Over-the-counter pain relievers like ibuprofen or acetaminophen can help manage moderate headaches, while rest, hydration, and dark, quiet rooms may alleviate symptoms. For more severe migraines, prescription medications such as triptans, ergotamines, or antiemetics might be prescribed by a doctor.  In some cases, muscle relaxants or nerve blocks could be considered."
+  },
+  {
+    "id": 71,
+    "question": "What should I take for cold sores?",
+    "reference_answer": "Antiviral creams like acyclovir can help speed up healing time. Apply as soon as symptoms start.",
+    "generated_answer": "There’s no single medication that definitively cures cold sores, but several options can help manage symptoms and reduce frequency. Antiviral medications like acyclovir (Zovirax) are often prescribed by a doctor, especially if you have frequent outbreaks. Topical creams containing docosanol (Abreva) may provide some relief. Pain relievers like ibuprofen or acetaminophen can also help with discomfort.  It's important to note that these treatments work best when started early in the course of an outbreak."
+  },
+  {
+    "id": 72,
+    "question": "What should I do if I suspect a heat stroke?",
+    "reference_answer": "Move to a cooler place, apply cool cloths or take a cool bath, and drink plenty of fluids. Seek emergency medical attention if symptoms are severe.",
+    "generated_answer": "If you suspect your child has a heat stroke, immediately move them to a cool place. Wet them down with water, apply ice packs to their groin, armpits, and neck, and encourage them to drink fluids. Monitor their temperature closely; a normal body temperature is 98.6°F (37°C). Seek immediate medical attention if they show signs of confusion, rapid breathing, seizures, or loss of consciousness."
+  },
+  {
+    "id": 73,
+    "question": "What should I take for acne treatment?",
+    "reference_answer": "Over-the-counter treatments like benzoyl peroxide or salicylic acid can be effective. For persistent acne, a dermatologist might prescribe stronger medications.",
+    "generated_answer": "For acne treatment, various options exist. Over-the-counter products containing benzoyl peroxide or salicylic acid can help reduce inflammation and kill bacteria. Topical retinoids are often effective in improving skin texture and reducing breakouts. Prescription medications like topical corticosteroids or oral antibiotics may be necessary for more severe cases.  Consulting with a dermatologist is recommended to determine the most appropriate course of action based on your specific condition and skin type."
+  },
+  {
+    "id": 74,
+    "question": "What should I do if I get a black eye?",
+    "reference_answer": "Apply a cold compress immediately to reduce swelling. If vision is affected or pain is severe, seek medical advice.",
+    "generated_answer": "If you experience a black eye, it’s likely due to a minor injury, such as a blow to the face or head.  Rest the affected area, apply ice packs for 15-20 minutes at a time, and elevate your head while resting.  Over-the-counter pain relievers like ibuprofen or acetaminophen can help manage any discomfort.  If the black eye persists or worsens, consult a doctor to rule out more serious causes."
+  },
+  {
+    "id": 75,
+    "question": "What is recommended for ear infections?",
+    "reference_answer": "Pain relievers like acetaminophen can alleviate pain. Many ear infections resolve on their own, but if symptoms persist, see a healthcare provider.",
+    "generated_answer": "For ear infections, treatment typically involves pain relief with over-the-counter medications like acetaminophen or ibuprofen, as well as drainage of fluid with warm compresses and saline rinses.  In severe cases, antibiotics may be prescribed by a doctor, especially if the infection is bacterial.  It’s important to seek medical attention promptly if your child has persistent ear pain, fever, irritability, or drainage from the ear."
+  },
+  {
+    "id": 76,
+    "question": "What should I do for chapped lips?",
+    "reference_answer": "Use a hydrating lip balm with SPF protection and avoid licking your lips.",
+    "generated_answer": "To soothe chapped lips, apply a moisturizing balm like petroleum jelly or lanolin. You can also try licking your lips gently with a salt water solution (1 part salt to 2 parts water) several times a day. Avoid harsh soaps and products containing alcohol, as these can further dry out the skin.  Protect your lips from sun exposure by wearing sunscreen with an SPF of 30 or higher."
+  },
+  {
+    "id": 77,
+    "question": "What should I take for hemorrhoids?",
+    "reference_answer": "Over-the-counter creams and suppositories containing hydrocortisone can provide relief. Also, fiber supplements can help prevent constipation, reducing strain.",
+    "generated_answer": "For managing hemorrhoid symptoms, over-the-counter options like hydrocortisone cream can help reduce inflammation and itching. Warm sitz baths can also provide relief by soothing the irritated area.  If symptoms persist or worsen, consult your doctor to discuss prescription treatments such as stool softeners or laxatives."
+  },
+  {
+    "id": 78,
+    "question": "What should I do for frostbite?",
+    "reference_answer": "Warm the affected area slowly in warm water, do not rub, and wrap with clean cloth. Seek medical attention if the frostbite is severe.",
+    "generated_answer": "If you suspect frostbite, immediately move the affected person to a warm environment. Cover them with warm, dry clothing – avoid wool as it retains heat.  Check their pulse; if it’s faint or absent, seek immediate medical attention.  Monitor their skin temperature; if it drops below 40°F (4°C), treat with warm, moist cloths.  Be aware of signs of shock, such as rapid breathing, confusion, or pale skin."
+  },
+  {
+    "id": 79,
+    "question": "What should I take for a toothache?",
+    "reference_answer": "Pain relievers like ibuprofen can reduce pain. It's important to consult a dentist to identify and treat the underlying cause.",
+    "generated_answer": "For a toothache, over-the-counter pain relievers like ibuprofen or acetaminophen can help manage the discomfort. You can also try cold compresses applied to your cheek near the affected area to reduce swelling and inflammation. If the pain persists or worsens, it’s important to consult with a dentist to determine the underlying cause and receive appropriate treatment."
+  },
+  {
+    "id": 80,
+    "question": "What is recommended for treating athlete's foot?",
+    "reference_answer": "Antifungal creams or sprays can treat athlete's foot. Keep feet dry and clean, and change socks regularly.",
+    "generated_answer": "For treating athlete’s foot, antifungal creams containing clotrimazole or miconazole are typically recommended.  It’s crucial to thoroughly wash and dry affected areas with soap and water, then apply the medication as directed on the product label.  Wearing breathable shoes and socks, avoiding shared towels and footwear, and keeping the skin clean can also help prevent recurrence."
+  },
+  {
+    "id": 81,
+    "question": "What should I do if I have difficulty sleeping?",
+    "reference_answer": "Avoid caffeine and screens before bedtime, maintain a regular sleep schedule, and consider using over-the-counter sleep aids like melatonin if necessary.",
+    "generated_answer": "If you’re experiencing difficulties sleeping, try establishing a regular sleep schedule, creating a relaxing bedtime routine, ensuring your bedroom is dark, quiet, and cool, and avoiding caffeine and alcohol before bed. If these measures don’t alleviate your sleep problems, consult with a healthcare professional to rule out underlying conditions like insomnia or sleep apnea."
+  },
+  {
+    "id": 82,
+    "question": "What should I take for anxiety?",
+    "reference_answer": "Mindfulness and relaxation techniques can help manage mild anxiety. For persistent or severe anxiety, consult a healthcare provider for potential medication or therapy options.",
+    "generated_answer": "There isn’t one single medication that effectively treats anxiety; different options exist depending on the type of anxiety you’re experiencing.  Some common medications include selective serotonin reuptake inhibitors (SSRIs) like sertraline and escitalopram, benzodiazepines like lorazepam, and buspirone. It’s crucial to discuss these with your doctor or psychiatrist to determine the most appropriate treatment plan for your specific situation, as they can assess potential side effects and interactions with other medications you may be taking."
+  },
+  {
+    "id": 83,
+    "question": "What should I do for a nosebleed?",
+    "reference_answer": "Sit upright and lean forward. Pinch your nose shut for 10 minutes. Avoid lying down or putting your head between your legs.",
+    "generated_answer": "If you experience a nosebleed, immediately sit upright and lean forward to help slow blood flow. Pinch the soft part of your nose just below the bony bridge with gauze pads until the bleeding stops. If the bleeding persists, apply ice to the bridge of your nose.  If you experience severe pain, dizziness, or weakness, seek immediate medical attention."
+  },
+  {
+    "id": 84,
+    "question": "What is recommended for preventing mosquito bites?",
+    "reference_answer": "Use insect repellent with DEET, cover exposed skin, and use mosquito nets if sleeping in areas with high mosquito activity.",
+    "generated_answer": "Repellent containing DEET, picaridin, or oil of lemon eucalyptus is generally recommended to prevent mosquito bites. Applying insect repellent to exposed skin, wearing long sleeves and pants when possible, and eliminating standing water around your home can also help reduce mosquito populations."
+  },
+  {
+    "id": 85,
+    "question": "What should I take for gas and bloating?",
+    "reference_answer": "Over-the-counter antacids or simethicone can relieve gas and bloating. Avoid foods that are known to cause gas.",
+    "generated_answer": "For gas and bloating, you can try over-the-counter remedies like activated charcoal, which can help absorb gas; peppermint tea may soothe stomach irritation; and gentle movement or walking can sometimes relieve discomfort. If symptoms persist or worsen, consult with your doctor to rule out underlying conditions."
+  },
+  {
+    "id": 86,
+    "question": "What should I do if I have swollen gums?",
+    "reference_answer": "Maintain good oral hygiene, use saltwater rinses, and avoid irritants like tobacco. See a dentist if swelling persists.",
+    "generated_answer": "If you experience swollen gums, it could be a sign of several conditions, including gingivitis, which is an early stage of gum disease.  It’s important to see your dentist promptly for a diagnosis and treatment plan.  Possible causes include poor oral hygiene, inflammation, or underlying health issues.  Your dentist can assess the extent of the swelling and recommend appropriate measures like scaling and root planing, professional cleaning, or other treatments to address the issue effectively."
+  },
+  {
+    "id": 87,
+    "question": "What is recommended for preventing dehydration?",
+    "reference_answer": "Drink plenty of fluids, especially water, throughout the day. Increase fluid intake during hot weather or when physically active.",
+    "generated_answer": "Staying hydrated is crucial for preventing dehydration.  Drinking water regularly throughout the day, even small amounts, helps replenish fluids lost through sweat, urine, and respiration. Other strategies include consuming hydrating foods like fruits and vegetables with high water content, such as watermelon and cucumbers, and monitoring your urine color – pale yellow indicates good hydration."
+  },
+  {
+    "id": 88,
+    "question": "What should I do if I experience burnout?",
+    "reference_answer": "Take breaks from work, engage in relaxing activities, seek support from friends or a professional, and consider a vacation to recharge.",
+    "generated_answer": "If you’re experiencing burnout, prioritize self-care activities like getting enough sleep, eating nutritious foods, and engaging in regular physical activity.  Set boundaries to protect your time and energy, delegate tasks when possible, and seek support from friends, family, or a mental health professional.  Consider exploring relaxation techniques such as mindfulness or meditation to manage stress levels."
+  },
+  {
+    "id": 89,
+    "question": "What should I take for a stiff neck?",
+    "reference_answer": "Apply heat or ice to the affected area. Over-the-counter pain relievers like ibuprofen can also help reduce pain and inflammation.",
+    "generated_answer": "For a stiff neck, over-the-counter pain relievers like ibuprofen or acetaminophen can help reduce inflammation and alleviate discomfort. Heat therapy, such as a warm compress or shower, may also provide soothing relief. Gentle stretching exercises and massage could also be beneficial, but consult with your doctor before starting any new exercise routine."
+  },
+  {
+    "id": 90,
+    "question": "What is recommended for reducing stress?",
+    "reference_answer": "Regular physical activity, mindfulness or meditation, proper sleep, and time management strategies can effectively reduce stress.",
+    "generated_answer": "Managing stress effectively involves a combination of strategies. Regular physical activity, such as exercise, can significantly reduce cortisol levels, while mindfulness practices like meditation and deep breathing exercises have been shown to calm the nervous system. Prioritizing sleep, engaging in hobbies you enjoy, and connecting with supportive social relationships are also crucial for promoting overall well-being.  If stress becomes overwhelming, seeking professional support from a therapist or counselor may be beneficial."
+  },
+  {
+    "id": 91,
+    "question": "What type of medication is used for treating high blood pressure?",
+    "reference_answer": "Medications used for high blood pressure include ACE inhibitors, beta blockers, diuretics, and calcium channel blockers.",
+    "generated_answer": "Most medications used to treat high blood pressure include ACE inhibitors, ARBs, diuretics, beta-blockers, calcium channel blockers, and thiazide diuretics. These drugs work in different ways to lower blood pressure by affecting the heart's rhythm, fluid balance, or blood vessel function."
+  },
+  {
+    "id": 92,
+    "question": "What are common antiviral drugs used for the flu?",
+    "reference_answer": "Common antiviral drugs for the flu include oseltamivir, zanamivir, and baloxavir.",
+    "generated_answer": "Several antiviral medications are commonly used to treat the flu. Oseltamivir (Tamiflu) and zanamivir (Relenza) are frequently prescribed as first-line treatments due to their effectiveness in reducing the duration and severity of illness. Ribavirin is sometimes utilized in severe cases, particularly in patients with atypical influenza strains, while other antivirals like baloxavir marboxil are available but have limited clinical utility."
+  },
+  {
+    "id": 93,
+    "question": "What medication is recommended for type 2 diabetes?",
+    "reference_answer": "Medications for type 2 diabetes often include metformin, sulfonylureas, and DPP-4 inhibitors.",
+    "generated_answer": "Management of type 2 diabetes typically involves lifestyle modifications such as diet and exercise, alongside medications prescribed by a healthcare professional. Common medications used include metformin, sulfonylureas, thiazolidinediones, DPP-4 inhibitors, and SGLT2 inhibitors. The specific medication chosen will depend on individual factors like blood sugar levels, other health conditions, and potential side effects."
+  },
+  {
+    "id": 94,
+    "question": "What are the uses of corticosteroids?",
+    "reference_answer": "Corticosteroids are used to reduce inflammation in conditions like asthma, arthritis, and allergies.",
+    "generated_answer": "Corticosteroids are medications that reduce inflammation and suppress the immune system. They are commonly used to treat conditions like asthma, allergic reactions, arthritis, skin disorders, and certain types of cancer.  They work by decreasing the production of inflammatory chemicals in the body, helping to alleviate symptoms and slow disease progression."
+  },
+  {
+    "id": 95,
+    "question": "What type of drug is used to treat anxiety disorders?",
+    "reference_answer": "Drugs used to treat anxiety disorders include benzodiazepines, SSRIs, and SNRIs.",
+    "generated_answer": "Antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs), are commonly prescribed to treat anxiety disorders. These medications work by increasing levels of serotonin and norepinephrine in the brain, which can help regulate mood and reduce feelings of anxiety."
+  },
+  {
+    "id": 96,
+    "question": "What are statins used for?",
+    "reference_answer": "Statins are used to lower cholesterol levels and reduce the risk of cardiovascular disease.",
+    "generated_answer": "Statins are medications primarily prescribed to lower cholesterol levels in the blood by preventing the liver from producing cholesterol and reducing LDL (\"bad\") cholesterol oxidation. They also help reduce the risk of cardiovascular events such as heart attack and stroke."
+  },
+  {
+    "id": 97,
+    "question": "What medications are available for migraine relief?",
+    "reference_answer": "Medications for migraine relief include triptans, ergotamines, and anti-nausea drugs.",
+    "generated_answer": "Several medications can help relieve migraine pain. Over-the-counter options include ibuprofen, naproxen, and acetaminophen. Prescription medications such as triptans, gepants, and ergotamines are often effective but require consultation with a doctor. Beta-blockers, calcium channel blockers, and anti-seizure medications may also be prescribed in certain cases."
+  },
+  {
+    "id": 98,
+    "question": "What is lithium used to treat?",
+    "reference_answer": "Lithium is a mood stabilizer commonly used to treat bipolar disorder.",
+    "generated_answer": "Lithium is primarily prescribed for bipolar disorder, a mental health condition characterized by mood swings between mania and depression. It helps regulate brain chemicals involved in regulating mood, energy levels, and sleep patterns, aiming to stabilize these conditions and reduce the severity of episodes."
+  },
+  {
+    "id": 99,
+    "question": "What are common treatments for ADHD?",
+    "reference_answer": "Common treatments for ADHD include stimulant medications like methylphenidate and amphetamines, as well as non-stimulant medications such as atomoxetine.",
+    "generated_answer": "Treatment for ADHD typically involves a combination of strategies addressing both core symptoms and lifestyle factors. Medications like stimulants can be effective in reducing impulsivity and hyperactivity, while non-stimulant options such as atomoxetine and guanfacine may offer alternative approaches. Behavioral therapies, including cognitive behavioral therapy (CBT), can help individuals develop coping mechanisms and improve organizational skills. Lifestyle modifications, such as regular exercise, balanced nutrition, and sufficient sleep, are also frequently recommended to support overall well-being and potentially enhance treatment outcomes."
+  },
+  {
+    "id": 100,
+    "question": "What drugs are used in chemotherapy?",
+    "reference_answer": "Chemotherapy drugs include doxorubicin, cyclophosphamide, and methotrexate, among others.",
+    "generated_answer": "Chemotherapy utilizes a variety of medications to target rapidly dividing cells throughout the body. Common drugs include platinum-based agents like cisplatin and carboplatin, which disrupt DNA replication; anthracyclines such as doxorubicin and daunorubicin, which interfere with cell division; and taxanes like paclitaxel and docetaxel, which inhibit microtubule formation crucial for cell division.  Other drugs may be used depending on the specific type of cancer and its characteristics."
+  },
+  {
+    "id": 101,
+    "question": "What is the use of beta blockers?",
+    "reference_answer": "Beta blockers are used to manage abnormal heart rhythms, protect against heart attacks in high-risk patients, and treat high blood pressure.",
+    "generated_answer": "Beta blockers are medications primarily used to treat heart conditions such as atrial fibrillation and ventricular tachycardia by slowing the heart rate and reducing the risk of arrhythmias. They are also prescribed for anxiety disorders, insomnia, and certain neurological conditions like Parkinson’s disease."
+  },
+  {
+    "id": 102,
+    "question": "What medications treat ulcerative colitis?",
+    "reference_answer": "Medications for ulcerative colitis include aminosalicylates, corticosteroids, and immunosuppressants.",
+    "generated_answer": "There isn’t one single medication that universally treats ulcerative colitis; treatment often involves a combination of approaches. Medications commonly used include corticosteroids to reduce inflammation, immunomodulators like azathioprine and 5-fluorouracil, and biologics targeting specific immune pathways.  In some cases, anti-inflammatory drugs like methotrexate may be prescribed.  A healthcare professional can determine the most appropriate treatment plan based on individual needs and severity of the condition."
+  },
+  {
+    "id": 103,
+    "question": "What are the main uses of antipsychotic medications?",
+    "reference_answer": "Antipsychotic medications are primarily used to manage psychosis, including schizophrenia and bipolar disorder manic episodes.",
+    "generated_answer": "Antipsychotic medications are used to treat a variety of mental health conditions including schizophrenia, bipolar disorder, and depression. They primarily work by altering brain chemistry, reducing excessive activity in certain areas associated with psychotic symptoms such as hallucinations and delusions. These medications help stabilize mood, reduce agitation, and improve social functioning for individuals experiencing these challenges."
+  },
+  {
+    "id": 104,
+    "question": "What are the uses of proton pump inhibitors?",
+    "reference_answer": "Proton pump inhibitors are used to treat conditions like GERD, stomach ulcers, and Zollinger-Ellison syndrome by reducing stomach acid production.",
+    "generated_answer": "Proton pump inhibitors (PPIs) are medications primarily used to reduce stomach acid production. They are commonly prescribed for conditions such as gastroesophageal reflux disease (GERD), ulcers, and Barrett's esophagus. By blocking the enzyme that breaks down stomach acid, PPIs help protect the esophageal lining from damage caused by excessive acidity."
+  },
+  {
+    "id": 105,
+    "question": "What type of medication is used for asthma control?",
+    "reference_answer": "Medications for asthma control include inhaled corticosteroids, long-acting beta agonists, and leukotriene modifiers.",
+    "generated_answer": "The primary medications used to manage asthma control are inhaled corticosteroids, which reduce inflammation in the airways. In addition, bronchodilators like albuterol are often prescribed to quickly open the airways during an asthma attack."
+  },
+  {
+    "id": 106,
+    "question": "What are biologic drugs and what are they used for?",
+    "reference_answer": "Biologic drugs are used to treat various conditions, including autoimmune diseases, cancer, and diabetes. They work by targeting specific components of the immune system.",
+    "generated_answer": "Biologic drugs are medications that target specific molecules within the body, such as proteins or cells, involved in disease processes. They work by interfering with these biological pathways, offering treatment options for conditions like autoimmune diseases, inflammatory disorders, and certain cancers. Common examples include interferon, TNF inhibitors, and monoclonal antibodies, each designed to modulate a particular immune response or cellular function."
+  },
+  {
+    "id": 107,
+    "question": "What medications help treat osteoporosis?",
+    "reference_answer": "Medications to treat osteoporosis include bisphosphonates, calcitonin, and denosumab.",
+    "generated_answer": "Treatment for osteoporosis typically involves a combination of medications and lifestyle changes. Bisphosphonates are frequently prescribed to slow bone loss, while denosumab reduces bone breakdown. Hormone therapy, such as estrogen, may be used in postmenopausal women to improve bone density. Calcium and vitamin D supplements are crucial for maintaining bone health, and weight-bearing exercise can also contribute to stronger bones.  Consulting with a healthcare professional is essential to determine the most appropriate treatment plan based on individual needs and medical history."
+  },
+  {
+    "id": 108,
+    "question": "What are the common drugs used for treating epilepsy?",
+    "reference_answer": "Common drugs for treating epilepsy include valproate, carbamazepine, and levetiracetam.",
+    "generated_answer": "Several medications are commonly prescribed to treat epilepsy. These include gabapentin, pregabalin, lorazepam, carbamazepine, clonazepam, and valproic acid. Anticonvulsant medications like phenobarbital and phenytoin are also frequently utilized. The specific drug chosen often depends on the individual patient’s needs and seizure type."
+  },
+  {
+    "id": 109,
+    "question": "What is used to treat allergic reactions?",
+    "reference_answer": "For mild allergic reactions, antihistamines are commonly used, while severe reactions may require epinephrine.",
+    "generated_answer": "Antihistamines are commonly used to treat allergic reactions by blocking histamine, a chemical released during an immune response that causes symptoms like itching, sneezing, and hives. Corticosteroids can also be prescribed for severe allergic reactions to reduce inflammation."
+  },
+  {
+    "id": 110,
+    "question": "What medications are used to treat Parkinson's disease?",
+    "reference_answer": "Medications for Parkinson's disease include levodopa, dopamine agonists, and MAO-B inhibitors.",
+    "generated_answer": "Parkinson’s disease treatment typically involves medication to manage both motor symptoms and non-motor effects. Dopamine agonists, such as levodopa, are frequently prescribed to increase dopamine levels in the brain, alleviating tremors and rigidity. Medications for managing side effects like nausea, sleep disturbances, and constipation are also commonly utilized.  Other drugs may be used to address specific conditions like depression or anxiety, depending on individual needs."
+  },
+  {
+    "id": 111,
+    "question": "What type of drugs are used to treat anxiety and insomnia?",
+    "reference_answer": "Benzodiazepines are commonly used to treat both anxiety and insomnia due to their sedative properties.",
+    "generated_answer": "Various medications can be prescribed for anxiety and insomnia, including benzodiazepines like lorazepam and alprazolam, which can help with both short-term relief and long-term management; selective serotonin reuptake inhibitors (SSRIs) such as sertraline and fluoxetine, often used in conjunction with therapy; and melatonin receptor agonists like ramelteon, which primarily addresses insomnia; and sometimes, anti-anxiety medications like buspirone or clonazepam may be utilized depending on the individual’s specific needs."
+  },
+  {
+    "id": 112,
+    "question": "What is the use of anticoagulant medications?",
+    "reference_answer": "Anticoagulants, such as warfarin and heparin, are used to prevent and treat blood clots.",
+    "generated_answer": "Anticoagulant medications work by preventing blood from clotting, reducing the risk of dangerous conditions like deep vein thrombosis, pulmonary embolism, and stroke. They achieve this by interfering with the body’s natural process of blood coagulation, typically by inhibiting enzymes involved in the formation of fibrin, a key component of blood clots."
+  },
+  {
+    "id": 113,
+    "question": "What are antifungal medications used for?",
+    "reference_answer": "Antifungal medications are used to treat fungal infections, including athlete's foot, thrush, and ringworm.",
+    "generated_answer": "Antifungal medications are prescribed to treat infections caused by fungi, such as athlete's foot, ringworm, yeast infections, and oral thrush. They work by disrupting fungal cell growth and preventing further spread of the infection."
+  },
+  {
+    "id": 114,
+    "question": "What are immunosuppressants used for?",
+    "reference_answer": "Immunosuppressants are used to prevent organ transplant rejection and to treat autoimmune diseases.",
+    "generated_answer": "Immunosuppressants are medications used to suppress the immune system, reducing the body’s ability to fight infections and potentially preventing organ rejection after transplantation. They are commonly prescribed in various conditions such as autoimmune diseases like rheumatoid arthritis and lupus, as well as following organ transplants to minimize the risk of graft-versus-host disease."
+  },
+  {
+    "id": 115,
+    "question": "What drugs are used for treating tuberculosis?",
+    "reference_answer": "Drugs used for treating tuberculosis include isoniazid, rifampin, ethambutol, and pyrazinamide.",
+    "generated_answer": "Treatment for tuberculosis typically involves a combination of medications. First, injectable antibiotics like isoniazid, rifampicin, ethambutol, and pyrazinamide are crucial to eradicate the bacteria.  A second antibiotic, azithromycin, is often prescribed to reduce the risk of drug resistance. In some cases, other medications like interferon-alpha or mycobacterial vaccines may be utilized depending on the specific type of TB infection and patient factors."
+  },
+  {
+    "id": 116,
+    "question": "What is the role of antiretroviral drugs?",
+    "reference_answer": "Antiretroviral drugs are used to manage HIV infection, preventing the virus from multiplying and reducing the amount of virus in the body.",
+    "generated_answer": "Antiretroviral drugs are medications used to treat HIV infection. They work by suppressing the virus’s ability to replicate within the body, reducing the amount of virus present and lessening the risk of transmission. These drugs often require regular monitoring and adherence to treatment plans to maintain viral suppression and prevent disease progression."
+  },
+  {
+    "id": 117,
+    "question": "What medications are used to treat hyperthyroidism?",
+    "reference_answer": "Medications for hyperthyroidism include methimazole and propylthiouracil, which help reduce thyroid hormone production.",
+    "generated_answer": "Treatment for hyperthyroidism typically involves medication to control the overactive thyroid gland. Methimazole is a common first-line medication that reduces thyroid hormone production, while propylthiouracil (PTU) can also be prescribed.  Other options may include lithium carbonate or radioactive iodine therapy depending on the severity of the condition and individual needs."
+  },
+  {
+    "id": 118,
+    "question": "What are the main medications used for heart failure?",
+    "reference_answer": "Medications for heart failure include ACE inhibitors, diuretics, beta blockers, and digoxin.",
+    "generated_answer": "Several medications are commonly prescribed for managing heart failure. These include ACE inhibitors, beta-blockers, diuretics, and mineralocorticoid receptor antagonists like spironolactone or eplerenone. In some cases, other medications such as digoxin may be utilized to help control heart rate and blood pressure. The specific medication regimen will depend on the individual patient’s condition and needs."
+  },
+  {
+    "id": 119,
+    "question": "What medications are prescribed for GERD (gastroesophageal reflux disease)?",
+    "reference_answer": "Medications for GERD include proton pump inhibitors, H2 receptor blockers, and antacids.",
+    "generated_answer": "For managing GERD, various medications are commonly prescribed. Proton pump inhibitors (PPIs) like omeprazole and lansoprazole are frequently used to reduce stomach acid production; H2 receptor antagonists such as ranitidine and famotidine also help limit acid release. In some cases, medications like antacids may be recommended to neutralize stomach acid, while corticosteroids like prednisone can be prescribed to reduce inflammation in the esophagus."
+  },
+  {
+    "id": 120,
+    "question": "What are the treatments for chronic kidney disease?",
+    "reference_answer": "Treatments for chronic kidney disease may include blood pressure medications, diuretics, and, in some cases, medications to lower cholesterol.",
+    "generated_answer": "Treatment for chronic kidney disease (CKD) focuses primarily on managing complications and slowing its progression. Lifestyle modifications such as diet changes – including limiting protein and sodium intake – and regular exercise are crucial. Medications may be prescribed to control blood pressure, cholesterol levels, and blood sugar, alongside medications to manage anemia and other potential issues.  Dialysis or kidney transplant may be necessary in severe cases to remove waste products from the body and improve kidney function."
+  },
+  {
+    "id": 121,
+    "question": "What are effective ways to manage high cholesterol?",
+    "reference_answer": "Effective ways include dietary changes such as reducing saturated fats and trans fats, increasing intake of omega-3 fatty acids, and incorporating more fiber-rich foods. Regular exercise and maintaining a healthy weight also help.",
+    "generated_answer": "Managing high cholesterol involves a multifaceted approach focusing on lifestyle modifications. Dietary changes such as reducing saturated and trans fats, increasing soluble fiber intake, and incorporating foods rich in omega-3 fatty acids can be beneficial. Regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week, also plays a crucial role. Additionally, medications prescribed by your doctor may be necessary to lower LDL (\"bad\") cholesterol and raise HDL (\"good\") cholesterol levels, depending on individual needs and risk factors."
+  },
+  {
+    "id": 122,
+    "question": "How can you naturally lower blood sugar levels?",
+    "reference_answer": "Natural ways to lower blood sugar include exercising regularly, managing carbohydrate intake, increasing fiber consumption, staying hydrated, and implementing portion control.",
+    "generated_answer": "Lifestyle changes are often effective for naturally lowering blood sugar levels. This includes incorporating regular physical activity into your routine, maintaining a healthy diet with plenty of fruits, vegetables, and whole grains, and managing stress through techniques like meditation or yoga. Additionally, consistent monitoring of your blood glucose levels with help from your healthcare provider can provide valuable insights into how different interventions affect your body."
+  },
+  {
+    "id": 123,
+    "question": "What are the signs of vitamin deficiency?",
+    "reference_answer": "Signs can include fatigue, dizziness, pale or yellowish skin, irregular heartbeats, weight loss, numbness or tingling in the extremities, muscle weakness, and mental confusion.",
+    "generated_answer": "Vitamin deficiencies can manifest in various ways depending on the specific vitamin involved. Common signs include fatigue, weakness, skin rashes, hair loss, brittle nails, impaired immune function, and neurological problems such as memory difficulties or confusion. Specific symptoms vary based on the individual’s health status and the severity of the deficiency."
+  },
+  {
+    "id": 124,
+    "question": "How can regular exercise benefit mental health?",
+    "reference_answer": "Regular exercise can reduce symptoms of depression and anxiety, help manage stress, enhance mood, improve self-esteem, and increase brain sensitivity for serotonin and norepinephrine.",
+    "generated_answer": "Regular physical activity has been shown to positively impact mental well-being through several mechanisms. Exercise releases endorphins, which have mood-boosting effects, reduces stress hormones like cortisol, and improves sleep quality – all of which contribute to improved emotional regulation. Furthermore, it can increase self-esteem, provide a sense of accomplishment, and offer social interaction opportunities, fostering feelings of connection and belonging."
+  },
+  {
+    "id": 125,
+    "question": "What are the symptoms of seasonal affective disorder (SAD)?",
+    "reference_answer": "Symptoms include persistent low mood, loss of pleasure or interest in everyday activities, irritability, feelings of despair, guilt and worthlessness, sleeping for longer than normal, and craving carbohydrates.",
+    "generated_answer": "Seasonal Affective Disorder (SAD) can present with a range of symptoms, including persistent sadness, fatigue, low energy, difficulty concentrating, changes in appetite, sleep disturbances, and feelings of hopelessness. Some individuals may also experience increased irritability or anxiety."
+  },
+  {
+    "id": 126,
+    "question": "What home treatments are effective for reducing arthritis pain?",
+    "reference_answer": "Effective home treatments include applying heat or cold, engaging in regular physical activity, practicing yoga or Tai Chi, and using topical treatments such as capsaicin cream.",
+    "generated_answer": "While there’s no single “cure” for arthritis pain, several home treatments can offer relief. Gentle stretching exercises, such as neck rotations and wrist bends, can improve joint mobility. Heat therapy like warm baths or heating pads can soothe stiff muscles and reduce inflammation. Regular low-impact exercise, like walking or swimming, helps maintain joint health and strengthen supporting muscles. Maintaining a healthy weight reduces stress on joints, and incorporating anti-inflammatory foods like fruits, vegetables, and fatty fish may also contribute to symptom management."
+  },
+  {
+    "id": 127,
+    "question": "How can you improve your digestive health naturally?",
+    "reference_answer": "Natural ways to improve digestive health include eating a diet rich in fiber, staying hydrated, limiting high-fat foods, adding probiotics, and managing stress effectively.",
+    "generated_answer": "Improving your digestive health naturally involves adopting several habits. Eating a diet rich in fiber, fruits, and vegetables promotes regular bowel movements and supports gut bacteria. Regular physical activity helps stimulate digestion and reduce bloating. Staying hydrated by drinking plenty of water is also crucial. Limiting processed foods, sugary drinks, and excessive caffeine may alleviate some digestive discomfort. Finally, incorporating stress management techniques like yoga or meditation can positively impact overall gut function."
+  },
+  {
+    "id": 128,
+    "question": "What are signs of dehydration in children?",
+    "reference_answer": "Signs include no wet diapers for 3 hours, dry mouth and tongue, crying without tears, high fever, unusually sleepy or drowsy, and irritability.",
+    "generated_answer": "Signs of dehydration in children can include decreased urination, dry mouth and tongue, sunken eyes, lethargy, and poor skin elasticity. Children may also experience thirst, but they don’t always show it.  Significant vomiting or diarrhea can quickly lead to dehydration."
+  },
+  {
+    "id": 129,
+    "question": "What should you do to prevent Lyme disease?",
+    "reference_answer": "To prevent Lyme disease, avoid wooded and bushy areas with high grass, use insect repellent, perform thorough tick checks after being outdoors, and consider treating clothing and gear with permethrin.",
+    "generated_answer": "Preventing Lyme disease involves minimizing exposure to ticks and their bites. Wear long sleeves and pants when outdoors, especially during dawn and dusk when ticks are most active. Use insect repellent containing DEET, picaridin, or oil of lemon eucalyptus. Check yourself and your pets regularly for ticks after spending time in wooded or grassy areas. If you find a tick, remove it promptly and properly (avoiding breaking it) and monitor for any signs of illness."
+  },
+  {
+    "id": 130,
+    "question": "How does sleep affect overall health?",
+    "reference_answer": "Adequate sleep is crucial for brain function, emotional well-being, physical health, daytime performance, and safety. Sleep helps repair your heart and blood vessels and balance the hormones that make you feel hungry or full.",
+    "generated_answer": "Adequate sleep is crucial for numerous aspects of overall health. It plays a vital role in regulating hormones that control appetite, metabolism, and stress response, contributing to healthy weight management. Sleep deprivation can weaken the immune system, increasing susceptibility to illness and slowing recovery from injury. Furthermore, chronic lack of sleep has been linked to increased risks of cardiovascular disease, diabetes, and mental health disorders such as anxiety and depression."
+  },
+  {
+    "id": 131,
+    "question": "What are the best foods to eat for heart health?",
+    "reference_answer": "Foods that promote heart health include leafy green vegetables, whole grains, berries, avocados, fatty fish, walnuts, beans, and dark chocolate.",
+    "generated_answer": "A diet rich in fruits, vegetables, whole grains, and lean protein is beneficial for heart health. Foods like berries, leafy greens, beans, lentils, and fish (especially fatty fish like salmon) provide essential nutrients like omega-3 fatty acids, potassium, and antioxidants. Reducing saturated and trans fats, sodium intake, and processed foods can further contribute to lower cholesterol levels and reduced risk of cardiovascular disease."
+  },
+  {
+    "id": 132,
+    "question": "How can you manage stress during pregnancy?",
+    "reference_answer": "Managing stress during pregnancy can be achieved through regular exercise, proper sleep, prenatal yoga, meditation, and support from friends, family, or a professional therapist.",
+    "generated_answer": "Managing stress during pregnancy is crucial for both your physical and mental well-being. Incorporate relaxation techniques like deep breathing exercises, yoga, or meditation into your routine. Prioritize regular exercise, even gentle walks, to release endorphins. Connect with supportive friends and family, engage in enjoyable activities, and seek professional support from your healthcare provider if needed.  Remember that seeking help is a sign of strength, and prioritizing self-care is essential throughout this time."
+  },
+  {
+    "id": 133,
+    "question": "What are early signs of Parkinson’s disease?",
+    "reference_answer": "Early signs include tremors, slowed movement (bradykinesia), rigid muscles, impaired posture and balance, loss of automatic movements, speech changes, and writing changes.",
+    "generated_answer": "Early signs of Parkinson's disease can include tremors, rigidity, slow movement (bradykinesia), postural instability, difficulty with balance, and problems with speech. Some individuals may also experience cognitive difficulties such as memory loss or difficulty concentrating. These symptoms often develop gradually over several years and can vary significantly from person to person."
+  },
+  {
+    "id": 134,
+    "question": "How can you prevent eye strain when using computers?",
+    "reference_answer": "Preventing eye strain involves adjusting the lighting, taking frequent breaks using the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds), ensuring your computer screen is at eye level, and using blue light filters.",
+    "generated_answer": "To minimize eye strain while using computers, practice the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. Adjust screen brightness and contrast to comfortable levels. Ensure your monitor is positioned correctly – roughly an arm’s length away and at eye level. Take regular breaks to rest your eyes and stretch your neck and shoulders. Consider using blue light filters or glasses if you experience persistent discomfort."
+  },
+  {
+    "id": 135,
+    "question": "What natural remedies help soothe sore muscles?",
+    "reference_answer": "Natural remedies for sore muscles include Epsom salt baths, massage, heat therapy, rest, stretching, and hydration.",
+    "generated_answer": "Several natural remedies can help soothe sore muscles. Applying warm compresses to the affected area can increase blood flow and reduce inflammation.  Gentle stretching exercises, such as cat-cow yoga or simple range of motion movements, can improve flexibility and alleviate muscle tension.  Applying a warm bath with Epsom salts can also provide relief due to their magnesium content. Finally, incorporating foods rich in antioxidants like berries and leafy greens into your diet may support overall tissue repair and healing."
+  },
+  {
+    "id": 136,
+    "question": "What are the symptoms of thyroid dysfunction?",
+    "reference_answer": "Symptoms can vary depending on whether the thyroid is overactive or underactive. Common symptoms include fatigue, weight changes, mood swings, changes in body temperature sensitivity, and changes in heart rate.",
+    "generated_answer": "Symptoms of thyroid dysfunction can vary widely depending on the underlying cause, but common signs include fatigue, weight gain or loss, constipation or diarrhea, mood changes (such as depression or anxiety), difficulty sleeping, muscle aches, and irregular heartbeat. In severe cases, it can lead to slowed metabolism, hoarseness, and skin problems."
+  },
+  {
+    "id": 137,
+    "question": "How can you improve bone density?",
+    "reference_answer": "Improving bone density can be achieved by engaging in weight-bearing exercises, consuming adequate amounts of calcium and vitamin D, avoiding smoking and excessive alcohol consumption, and possibly medication under medical advice.",
+    "generated_answer": "Improving bone density typically involves a combination of lifestyle factors and potentially medical interventions.  A balanced diet rich in calcium and vitamin D is crucial, alongside weight-bearing exercise to stimulate bone growth. Regular weight-bearing activities like walking, jogging, or strength training are also beneficial. Additionally, avoiding smoking and excessive alcohol consumption can help protect bones. In some cases, consultation with a healthcare professional may be necessary to assess individual risk factors and determine appropriate treatment options for conditions that affect bone density."
+  },
+  {
+    "id": 138,
+    "question": "What are signs that you need to visit an optometrist?",
+    "reference_answer": "Signs include persistent headaches, squinting, difficulty seeing at night, blurry vision, eye strain or fatigue, and seeing flashes of light or sudden changes in vision.",
+    "generated_answer": "Changes in your vision, such as blurred or double vision, difficulty seeing at night, eye pain, redness, or sensitivity to light, persistent headaches, or a feeling of needing to squint can all indicate a potential problem requiring an optometrist’s evaluation."
+  },
+  {
+    "id": 139,
+    "question": "How can you protect your skin from sun damage?",
+    "reference_answer": "Protect your skin by using sunscreen with an SPF of at least 30, wearing protective clothing, seeking shade during the peak sun hours, and avoiding tanning beds.",
+    "generated_answer": "Protecting your skin from sun damage involves several key strategies. Wear broad-spectrum sunscreen with an SPF of 30 or higher liberally across all exposed areas, reapplying every two hours, especially after swimming or sweating. Seek shade during peak sunlight hours – between 10 am and 4 pm – and wear protective clothing like long sleeves, hats, and sunglasses.  Consider wearing UV-protective fabrics like tightly woven polyester."
+  },
+  {
+    "id": 140,
+    "question": "What are the best practices for dental hygiene?",
+    "reference_answer": "Best practices include brushing teeth twice a day with fluoride toothpaste, flossing daily, using mouthwash, avoiding tobacco, limiting sugary snacks and drinks, and regular dental check-ups.",
+    "generated_answer": "Maintaining good oral hygiene is crucial for overall health. Brush your teeth twice daily with fluoride toothpaste for two minutes each time, paying attention to all surfaces. Floss daily to remove plaque and food particles from between teeth where brushing can’t reach. Rinse your mouth with water after meals and consider using an antimicrobial mouthwash. Regular professional cleanings, typically every six months, are essential to remove hardened tartar and address any potential problems."
+  },
+  {
+    "id": 141,
+    "question": "What are effective strategies for quitting smoking?",
+    "reference_answer": "Effective strategies include nicotine replacement therapy, prescription medications, behavioral therapy, support groups, setting a quit date, and avoiding smoking triggers.",
+    "generated_answer": "Quitting smoking effectively requires a multifaceted approach.  Combining nicotine replacement therapy like patches, gum, or lozenges with counseling and support can significantly reduce cravings and withdrawal symptoms. Behavioral therapies such as cognitive behavioral therapy (CBT) and motivational interviewing help identify triggers and develop coping mechanisms. Lifestyle changes like reducing alcohol and caffeine intake, exercising regularly, and seeking social support from friends and family are also crucial components of long-term success. Finally, consider medication options prescribed by a doctor to manage withdrawal symptoms and address underlying addiction issues."
+  },
+  {
+    "id": 142,
+    "question": "How can mindfulness meditation improve your health?",
+    "reference_answer": "Mindfulness meditation can reduce stress, lower blood pressure, reduce chronic pain, improve sleep, and enhance mental health by fostering better awareness and less emotional reactivity.",
+    "generated_answer": "Mindfulness meditation has been linked to numerous benefits for overall health. Regular practice can reduce stress levels by altering brain chemistry and promoting relaxation, potentially lowering blood pressure and improving heart rate variability. It’s also associated with improved emotional regulation, decreased anxiety and depression, and enhanced self-awareness – all factors that contribute to better mental well-being. Some studies suggest mindfulness may even support immune function and sleep quality."
+  },
+  {
+    "id": 143,
+    "question": "What are the benefits of probiotics?",
+    "reference_answer": "Probiotics can improve digestive health, reduce depression and anxiety, promote heart health, and may enhance immune function.",
+    "generated_answer": "Probiotics offer several potential health benefits, including improved gut health by promoting a balanced microbiome, which can enhance nutrient absorption and boost the immune system. Some studies suggest they may alleviate certain digestive issues like bloating and constipation, potentially reducing inflammation, and even contribute to mental well-being through effects on the brain-gut axis."
+  },
+  {
+    "id": 144,
+    "question": "How do you recognize the signs of heat exhaustion?",
+    "reference_answer": "Signs include heavy sweating, weakness, cold, pale, and clammy skin, a fast but weak pulse, nausea or vomiting, and fainting.",
+    "generated_answer": "Heat exhaustion typically presents with symptoms like heavy sweating, weakness, dizziness, headache, nausea, and muscle cramps. You may also experience fatigue and pale skin.  If these symptoms worsen or persist despite seeking relief, it could indicate a more serious condition requiring immediate medical attention."
+  },
+  {
+    "id": 145,
+    "question": "What should you do if you have an allergic reaction?",
+    "reference_answer": "For mild reactions, antihistamines can help relieve symptoms. For severe reactions, such as difficulty breathing or anaphylaxis, administer epinephrine if available and seek emergency medical care immediately.",
+    "generated_answer": "If you experience an allergic reaction, immediately remove yourself from the source of the allergen. If possible, seek fresh air.  Contact emergency services or go to the nearest emergency room.  If you have an epinephrine auto-injector (EpiPen), administer it as directed. Monitor your breathing and vital signs until help arrives."
+  },
+  {
+    "id": 146,
+    "question": "How can you manage lower cholesterol without medication?",
+    "reference_answer": "Managing cholesterol without medication can involve dietary changes like increasing fiber and reducing fats, regular physical activity, and smoking cessation.",
+    "generated_answer": "Lifestyle changes are often the first line of defense for managing low cholesterol without medication. This includes adopting a heart-healthy diet rich in fruits, vegetables, and whole grains, while limiting saturated and trans fats, cholesterol, and sodium intake. Regular physical activity, aiming for at least 150 minutes of moderate-intensity exercise per week, can also help improve cholesterol levels. Maintaining a healthy weight through regular exercise and dietary adjustments can significantly contribute to reducing cholesterol risk."
+  },
+  {
+    "id": 147,
+    "question": "What type of medication is used to treat rheumatoid arthritis?",
+    "reference_answer": "Medications used to treat rheumatoid arthritis include disease-modifying antirheumatic drugs (DMARDs), biologic response modifiers, and corticosteroids.",
+    "generated_answer": "Nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen and naproxen are commonly prescribed to manage rheumatoid arthritis. Other medications, including disease-modifying antirheumatic drugs (DMARDs), like methotrexate and sulfasalazine, may also be utilized depending on the individual’s condition and response to treatment."
+  },
+  {
+    "id": 148,
+    "question": "What are common medications used for treating anxiety disorders?",
+    "reference_answer": "Common medications for treating anxiety disorders include selective serotonin reuptake inhibitors (SSRIs), serotonin-norepinephrine reuptake inhibitors (SNRIs), and benzodiazepines.",
+    "generated_answer": "Several medications are commonly prescribed to treat anxiety disorders. Selective serotonin reuptake inhibitors (SSRIs) like sertraline and fluoxetine are frequently utilized, as well as benzodiazepines such as lorazepam and alprazolam. Buspirone is an anxiolytic that works differently than SSRIs, while trazodone can also be effective in some cases. Antihistamines like diphenhydramine may provide temporary relief for some individuals experiencing generalized anxiety.  It’s important to note that medication management should always be discussed with a healthcare professional to determine the most appropriate treatment plan based on individual needs and potential side effects."
+  },
+  {
+    "id": 149,
+    "question": "What type of drug is commonly prescribed for heartburn and acid reflux?",
+    "reference_answer": "Proton pump inhibitors (PPIs) and H2 receptor blockers are commonly prescribed for heartburn and acid reflux to reduce stomach acid production.",
+    "generated_answer": "Antacids are frequently prescribed for heartburn and acid reflux as they neutralize stomach acid. H2 blockers like ranitidine and famotidine reduce acid production, while PPIs such as omeprazole and lansoprazole reduce stomach acid levels."
+  },
+  {
+    "id": 150,
+    "question": "What medications are used for managing chronic pain?",
+    "reference_answer": "Medications for managing chronic pain include nonsteroidal anti-inflammatory drugs (NSAIDs), acetaminophen, opioid pain relievers, and adjuvant therapies like antidepressants and anticonvulsants.",
+    "generated_answer": "Several medications can be used to manage chronic pain. Non-opioid analgesics like acetaminophen, ibuprofen, and naproxen are often effective for mild to moderate pain. Muscle relaxants such as cyclobenzaprine may help with muscle spasms associated with chronic pain. Opioid medications, including tramadol and codeine, can provide significant pain relief but carry risks of addiction and side effects. Nerve pain medications like gabapentin and pregabalin are frequently prescribed, while antidepressants like amitriptyline and duloxetine can also be utilized in some cases.  Individual treatment plans will vary based on the specific type and severity of chronic pain."
+  },
+  {
+    "id": 151,
+    "question": "What is metformin used for?",
+    "reference_answer": "Metformin is primarily used to treat type 2 diabetes; it helps control blood sugar levels by improving the way the body handles insulin.",
+    "generated_answer": "Metformin is primarily prescribed to treat type 2 diabetes by helping to lower blood sugar levels in people with this condition. It also has potential benefits for heart health and may help manage weight in some individuals."
+  },
+  {
+    "id": 152,
+    "question": "What drugs are commonly used to treat osteoarthritis?",
+    "reference_answer": "Common treatments for osteoarthritis include NSAIDs, acetaminophen, and topical pain relievers like capsaicin and lidocaine.",
+    "generated_answer": "Several medications are utilized to manage osteoarthritis pain and inflammation. Nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen and naproxen are frequently prescribed to reduce pain and swelling, while acetaminophen can also provide relief. In some cases, muscle relaxants may be used to alleviate stiffness and muscle spasms.  Prescription corticosteroids, such as prednisone, are sometimes prescribed for more severe joint damage, but they carry potential risks and require careful monitoring."
+  },
+  {
+    "id": 153,
+    "question": "What is the role of antiretroviral therapy in HIV treatment?",
+    "reference_answer": "Antiretroviral therapy (ART) is used to treat HIV by reducing the amount of virus in the blood to undetectable levels, which helps prevent disease progression and transmission.",
+    "generated_answer": "Antiretroviral therapy (ART) plays a crucial role in HIV treatment by suppressing the virus’s replication, reducing the amount of virus in the body, and preventing further transmission to others. ART medications work through various mechanisms to manage viral load and improve overall health for individuals living with HIV."
+  },
+  {
+    "id": 154,
+    "question": "What medications are used to treat high cholesterol?",
+    "reference_answer": "Medications used to treat high cholesterol include statins, bile acid sequestrants, cholesterol absorption inhibitors, and fibrates.",
+    "generated_answer": "Several medications are prescribed to manage high cholesterol. Statins are often the first-line treatment, lowering cholesterol levels by blocking an enzyme that produces cholesterol. Medications like ezetimibe reduce cholesterol absorption, while bile acid sequestrants bind to bile acids in the gut, preventing their reabsorption and thus lowering cholesterol. In some cases, blood pressure medications may be added to help control cardiovascular risk factors associated with high cholesterol.  Individual treatment plans will vary based on the specific type of cholesterol and overall health status."
+  },
+  {
+    "id": 155,
+    "question": "What are common treatments for insomnia?",
+    "reference_answer": "Common treatments for insomnia include behavioral therapies, as well as medications like benzodiazepines, non-benzodiazepine sleep aids, and melatonin receptor agonists.",
+    "generated_answer": "Common treatments for insomnia include cognitive behavioral therapy for insomnia (CBT-I), which addresses thought patterns contributing to sleep problems; relaxation techniques such as deep breathing and progressive muscle relaxation; establishing a regular sleep schedule; optimizing the sleep environment (dark, quiet, cool); and addressing any underlying medical conditions that may be disrupting sleep."
+  },
+  {
+    "id": 156,
+    "question": "What medications are available for treating allergic rhinitis?",
+    "reference_answer": "Treatments for allergic rhinitis include antihistamines, nasal corticosteroids, decongestants, and leukotriene receptor antagonists.",
+    "generated_answer": "Several medications can be used to treat allergic rhinitis. Antihistamines like loratadine (Claritin) and cetirizine (Zyrtec) block histamine receptors, while nasal corticosteroids such as fluticasone propionate and budesonide reduce inflammation in the nasal passages. Decongestants like pseudoephedrine and phenylephrine can help relieve nasal congestion, and sometimes, antibiotics may be prescribed if there’s evidence of bacterial infection.  Consulting with a healthcare professional is recommended to determine the most appropriate treatment plan based on individual needs and potential side effects."
+  },
+  {
+    "id": 157,
+    "question": "What drugs are used to treat bipolar disorder?",
+    "reference_answer": "Drugs used to treat bipolar disorder include mood stabilizers like lithium and valproate, antipsychotics, and, occasionally, antidepressants.",
+    "generated_answer": "Treatment for bipolar disorder typically involves a combination of medications and therapies. Antipsychotic drugs, such as haloperidol and risperidone, are frequently prescribed to manage manic episodes, while mood stabilizers like lithium, valproate, and lamotrigine help stabilize mood swings and reduce anxiety. In some cases, antidepressants may be utilized to address depressive symptoms associated with bipolar disorder.  Individual treatment plans are tailored to each patient’s specific needs and response to medication."
+  },
+  {
+    "id": 158,
+    "question": "What type of medications are used for preventing malaria?",
+    "reference_answer": "Medications for preventing malaria include chloroquine, doxycycline, mefloquine, and atovaquone-proguanil.",
+    "generated_answer": "Antimalarial medications commonly prescribed for prevention include atovaquone/proguanil, doxycycline, mefloquine, and chloroquine. These drugs work by inhibiting parasite growth within the body."
+  },
+  {
+    "id": 159,
+    "question": "What are the treatments for type 1 diabetes?",
+    "reference_answer": "Treatment for type 1 diabetes primarily involves insulin therapy, which may be administered through injections or an insulin pump.",
+    "generated_answer": "Treatment for type 1 diabetes primarily focuses on managing blood sugar levels through insulin therapy. This typically involves using injections or an insulin pump to deliver insulin throughout the day and night. Dietary management, including consistent carbohydrate intake, is also crucial for maintaining stable blood glucose. Regular monitoring of blood sugar levels with a continuous glucose monitor (CGM) is essential alongside these interventions.  In addition to these core strategies, lifestyle modifications such as regular exercise and stress reduction can contribute to overall health management."
+  },
+  {
+    "id": 160,
+    "question": "What medications help with the symptoms of menopause?",
+    "reference_answer": "Treatments for menopause symptoms include hormone replacement therapy (HRT), antidepressants for mood swings, and medications like gabapentin for hot flashes.",
+    "generated_answer": "Several medications can help manage menopausal symptoms. Hormone therapy, typically containing estrogen and progestins, is often prescribed to alleviate hot flashes, vaginal dryness, and mood swings. Non-hormonal options include antidepressants (like SSRIs) that can reduce anxiety and sleep disturbances associated with perimenopause, as well as certain anti-anxiety medications.  Individual responses vary, and consulting with a healthcare professional is crucial to determine the most appropriate treatment plan based on individual needs and health history."
+  },
+  {
+    "id": 161,
+    "question": "What are the uses of calcium channel blockers?",
+    "reference_answer": "Calcium channel blockers are used to treat high blood pressure, chest pain (angina), and certain heart arrhythmias by relaxing blood vessels and reducing heart rate.",
+    "generated_answer": "Calcium channel blockers are medications used to treat various conditions by relaxing blood vessels and reducing heart rate. They are commonly prescribed for hypertension (high blood pressure), angina (chest pain), and certain arrhythmias (irregular heartbeats).  They also help manage migraines and may be used in some cases of peripheral vascular disease."
+  },
+  {
+    "id": 162,
+    "question": "What drugs are prescribed for treating ADHD in adults?",
+    "reference_answer": "Medications prescribed for ADHD in adults include stimulants such as Adderall and Ritalin, as well as non-stimulant options like Strattera and Guanfacine.",
+    "generated_answer": "Treatment for ADHD in adults typically involves a combination of medications and behavioral therapies. Stimulant medications like methylphenidate and amphetamine are frequently prescribed to enhance focus and reduce impulsivity. Non-stimulant options include atomoxetine (Strattera) and guanfacine (Intuniv), which work differently by affecting neurotransmitter activity.  Psychiatrists may also prescribe antidepressants to address co-occurring conditions such as anxiety or depression, and cognitive behavioral therapy can be beneficial for developing coping mechanisms and improving organizational skills."
+  },
+  {
+    "id": 163,
+    "question": "What medications are effective against fungal infections?",
+    "reference_answer": "Medications effective against fungal infections include azoles, echinocandins, and polyenes, depending on the type and location of the infection.",
+    "generated_answer": "Several medications can be effective against fungal infections, depending on the type of infection and its severity. Antifungal medications commonly used include antifungal creams, lotions, and oral medications such as fluconazole, itraconazole, and terbinafine. For severe or systemic infections, intravenous antifungals like amphotericin B may be necessary. It’s important to consult with a healthcare professional for diagnosis and appropriate treatment plan."
+  },
+  {
+    "id": 164,
+    "question": "What drugs are used to treat thyroid disorders?",
+    "reference_answer": "Drugs used to treat thyroid disorders include levothyroxine for hypothyroidism and thioamides for hyperthyroidism.",
+    "generated_answer": "Treatment for thyroid disorders typically involves medications prescribed by a physician. These can include antithyroid drugs like methimazole and propylthiouracil, which reduce thyroid hormone production; levothyroxine, a synthetic form of thyroid hormone that regulates hormone levels; and sometimes, medications to manage specific symptoms associated with hyperthyroidism or hypothyroidism."
+  },
+  {
+    "id": 165,
+    "question": "What is the treatment for chronic obstructive pulmonary disease (COPD)?",
+    "reference_answer": "Treatment for COPD includes bronchodilators, corticosteroids, phosphodiesterase-4 inhibitors, and antibiotics for managing exacerbations.",
+    "generated_answer": "Treatment for COPD typically involves a combination of medications to manage symptoms like shortness of breath and cough, as well as interventions aimed at slowing lung damage. These may include bronchodilators to open airways, inhaled corticosteroids to reduce inflammation, and pulmonary rehabilitation programs to improve breathing and exercise tolerance. In some cases, oxygen therapy or surgery might be necessary to address severe complications."
+  },
+  {
+    "id": 166,
+    "question": "What medications are used to manage ulcerative colitis and Crohn's disease?",
+    "reference_answer": "Medications used to manage ulcerative colitis and Crohn's disease include aminosalicylates, corticosteroids, immunomodulators, and biologic drugs.",
+    "generated_answer": "The management of ulcerative colitis and Crohn’s disease typically involves a combination of medications tailored to the individual’s specific condition. For ulcerative colitis, medications often include corticosteroids, immunomodulators like azathioprine or 5-fluorouracil, and biologics targeting inflammatory pathways.  For Crohn’s disease, treatments may include anti-inflammatory drugs such as methotrexate, immunosuppressants (e.g., cyclosporine), and biologics targeting TNF-alpha or IL-12/23.  Specific prescriptions will vary based on the severity and type of inflammation."
+  }
+]

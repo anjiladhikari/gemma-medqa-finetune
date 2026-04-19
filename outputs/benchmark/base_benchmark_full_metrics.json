@@ -1,0 +1,20 @@
+{
+  "num_samples": 166,
+  "exact_match_rate": 0,
+  "average_bleu": 0.05151710468330481,
+  "average_rouge1_recall": 0.6398672987640135,
+  "average_rouge1_precision": 0.2189372278818837,
+  "average_rouge1_f1": 0.3186627446779277,
+  "average_rouge2_recall": 0.22737056051729637,
+  "average_rouge2_precision": 0.07816119376794392,
+  "average_rouge2_f1": 0.11377395456158945,
+  "average_rougeL_recall": 0.47159148798641554,
+  "average_rougeL_precision": 0.16014116082641786,
+  "average_rougeL_f1": 0.2334297913545422,
+  "average_meteor": 0.40530072209262846,
+  "average_bertscore": 0.8903864622116089,
+  "average_chrf": 40.93316953457771,
+  "average_semantic_similarity": 0.7618275387100426,
+  "average_generated_answer_length": 69.53614457831326,
+  "average_reference_answer_length": 23.47590361445783
+}
