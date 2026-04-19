@@ -1,0 +1,6 @@
+{
+  "num_samples": 5,
+  "average_rouge1_f": 0.2670408803058292,
+  "average_rouge2_f": 0.06007362705710299,
+  "average_rougeL_f": 0.19522188645915411
+}

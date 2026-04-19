@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What are common causes of headaches?",
+    "reference_answer": "Common causes include stress, dehydration, poor posture, lack of sleep, and visual strain.",
+    "generated_answer": "Headaches can have numerous causes, ranging from tension headaches to more serious conditions. Tension headaches are often caused by muscle tension in the head and neck, while migraines involve neurological changes with associated pain, nausea, and sensitivity to light and sound. Sinus infections, dehydration, stress, caffeine withdrawal, sleep deprivation, and certain medications can also trigger headaches. Rarely, headaches can be related to underlying medical issues such as brain tumors, aneurysms, or other neurological disorders."
+  },
+  {
+    "id": 2,
+    "question": "How can you differentiate between a tension headache and a migraine?",
+    "reference_answer": "Tension headaches usually cause mild to moderate diffuse pain around the head. Migraines are often more severe, with pulsating pain on one side of the head, and can include nausea and light sensitivity.",
+    "generated_answer": "Tension headaches typically cause dull, aching pain across your forehead and temples, often accompanied by tenderness in the scalp and neck muscles. Migraines often present with intense, throbbing pain, usually localized to one side of the head, along with nausea, vomiting, and sensitivity to light and sound.  A migraine may be preceded by an aura – visual disturbances like flashing lights or zigzag lines – while tension headaches rarely exhibit these features."
+  },
+  {
+    "id": 3,
+    "question": "What home remedies are effective for relieving headaches?",
+    "reference_answer": "Effective remedies include hydration, rest, applying a cold or warm compress to the head, and practicing stress-reduction techniques such as meditation or gentle stretching.",
+    "generated_answer": "Several home remedies can help alleviate headaches. Applying a warm compress to your forehead or neck can relax tense muscles, while drinking plenty of water helps prevent dehydration, which can trigger headaches.  Resting in a quiet, dark room can also reduce sensory stimulation. Some individuals find relief from taking over-the-counter pain relievers like ibuprofen or acetaminophen, but it’s crucial to follow dosage instructions carefully."
+  },
+  {
+    "id": 4,
+    "question": "What are typical causes of lower back pain?",
+    "reference_answer": "Common causes include muscle or ligament strain, poor posture, heavy lifting, and underlying medical conditions like arthritis or disk disease.",
+    "generated_answer": "Lower back pain can stem from various factors including muscle strains or sprains due to improper lifting, poor posture, arthritis, degenerative disc disease, herniated discs, spinal stenosis, and even problems with the ligaments and facet joints in the spine."
+  },
+  {
+    "id": 5,
+    "question": "Describe simple stretches to alleviate upper back pain.",
+    "reference_answer": "Simple stretches include the shoulder blade squeeze, cat-cow stretch, and doorway pectoral stretch, all of which can help loosen tight muscles and improve posture.",
+    "generated_answer": "Simple stretches can often help ease upper back pain.  Start by performing gentle twists of your torso, holding each twist for 20-30 seconds, focusing on relaxing your shoulder blades.  Another helpful stretch involves leaning forward slightly with your knees bent, placing your hands on your lower back, and gently pulling your shoulders back as if trying to touch your ears with your elbows.  Finally, you can try a cat-cow stretch, where you alternate between arching your back like a cat and dropping your belly towards the floor.  Listen to your body and stop if you feel any sharp pain."
+  }
+]
